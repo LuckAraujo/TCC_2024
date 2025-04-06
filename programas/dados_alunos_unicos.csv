@@ -1,0 +1,834 @@
+ID_ALUNO,IDADE,ANO_INGRESSO,FORMA_INGRESSO,ANO_EVASAO,FORMA_EVASAO,NATURALIDADE,ETNIA,DEFICIENCIAS,COTAS,BOLSA
+000DD3543AC84D906EAE52E7C779BB2A,Menos de 19 anos,2017,Processo Seletivo - SiSU,2022,Formado,Ariquemes-RO,Branca,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda,Possuia
+001E1AFAA21E768F77F6A83F6279E9F3,19-25 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+00AFB001D1072E57F9A488C65E5B1947,19-25 anos,2018,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Não Possuia
+00EFE3D30E8D51AE61FA5D5C96478A95,Menos de 19 anos,2017,Processo Seletivo - SiSU,2021,Formado,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+01044CFD18DD5C0CDE26733C11A3B542,Menos de 19 anos,2010,Vestibular,2014,Formado,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+0139266877771D61F301725CD29CDB86,Menos de 19 anos,2012,Enem,2015,Desistencia,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Possuia
+014C073EF65E4A7EF73ACD61CF606164,19-25 anos,2016,Transferencia Externa,2022,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+014CEC6EA89E4BFBCB911F6845A96D55,Menos de 19 anos,2017,Processo Seletivo - SiSU,2020,Formado,Rio Branco-AC,Branca,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda,Possuia
+01CC35F5215D76108F9789902A8881DC,19-25 anos,2016,Transferencia Externa,,Sem Evasao,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Possuia
+01E4BB6467B09E8AA75F20620C9C21DE,26-35 anos,2015,Processo Seletivo - SiSU,2017,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Geral,Não Possuia
+01F6C1D0375303D0D55E5AEB875CDF59,Acima de 35 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Não Possuia
+025656EE7E26CC93F4578C3106676F42,26-35 anos,2016,Transferencia Externa,2018,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+02E8CA2AD17D56E17E1FC2EDCBEE4D40,Menos de 19 anos,2011,Vestibular,2017,Formado,Rio Branco-AC,Branca,Outras Necessidades,Ampla Concorrencia,Possuia
+035EB76E8E1199879473DB82502D31DC,Menos de 19 anos,2008,Vestibular,2016,Desistencia,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Possuia
+03F396A359EF22A21E37B7B45F4D9979,Menos de 19 anos,2011,Vestibular,2017,Jubilamento,Cruzeiro do Sul-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+041206F8E2B84E6A7B701788FE8C10CE,26-35 anos,2017,Processo Seletivo - SiSU,2018,Jubilamento,Guajara-Mirim-RO,Preta,Sem Deficiencia,"Candidatos de Escola Publica com Baixa Renda (Pretos, Pardos e Indigenas)",Possuia
+04A618A2545A0DE34DFB745893E06524,Acima de 35 anos,2020,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Não Possuia
+04D7652DAFC4DD22045934F054168C0F,Acima de 35 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+052760BD8E212726717FE6D070748880,19-25 anos,2012,Enem,2014,Desistencia,Assis Brasil-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+05B52E6F0EBB4CD3798ABD4047D2A7ED,Acima de 35 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+05C0AE7C6B605732401AA102A62970B3,19-25 anos,2010,Vestibular,2016,Formado,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+05CD9795646D1077A743ADA13FBC2C62,26-35 anos,2015,Processo Seletivo - SiSU,2019,Formado,Araraquara-SP,Branca,Sem Deficiencia,Geral,Possuia
+05EDE5CEDAD6C61EF99376296B0699EF,26-35 anos,2017,Processo Seletivo - SiSU,2018,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+066763A699FBE4DC6205BAC5D616162B,19-25 anos,2009,Transferencia Externa,2012,Formado,Rolim de Moura-RO,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Possuia
+069026DD46EFB390001A2661E32C84C4,26-35 anos,2022,Portador de Diploma Superior,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+06A0C7649829DE337BF494D3CE6C9850,19-25 anos,2018,Processo Seletivo - SiSU,,Sem Evasao,Recife-PE,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+06F2AE7068EE80CF19E8083BF7F3091E,Acima de 35 anos,2015,Transferencia Externa,2022,Formado,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+0780E8F5D5DF0C219DCAFAE6E0F35043,Menos de 19 anos,2008,Vestibular,2014,Jubilamento,Nao informado,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+0794D3078E43642BA113CDE820882E86,26-35 anos,2019,Processo Seletivo - SiSU,2022,Jubilamento,Porto Walter-AC,Preta,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Não Possuia
+07DB8D8B0AC1F36C817CA394F9C44744,Menos de 19 anos,2011,Vestibular,2014,Jubilamento,Recife-PE,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+084C141BCB1A60BB9619AAFC340241FD,19-25 anos,2015,Processo Seletivo - SiSU,2019,Formado,Vila Velha-ES,Preta,Sem Deficiencia,Geral,Possuia
+086188439A1F20760E30C07624ED6674,19-25 anos,2013,Processo Seletivo - SiSU,2020,Desistencia,Rio Branco-AC,Preta,Sem Deficiencia,"Vagas destinadas aos pretos, pardos e indigenas de baixa renda",Não Possuia
+08AA869CBCA066C1278B2D2E4ED7B19D,Menos de 19 anos,2013,Processo Seletivo - SiSU,2016,Formado,Brasilia-DF,Nao Declarada,Sem Deficiencia,Vagas destinadas aos candidatos de escola publica e baixa renda,Possuia
+08CC5F2A7C7868992D52D55136C92355,Acima de 35 anos,2020,Processo Seletivo - SiSU,,Sem Evasao,Tarauaca-AC,Preta,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Possuia
+08DDA5E632C4DF6CB9F626C26B27CF14,19-25 anos,2018,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Fisica,Candidatos com deficiencia (geral),Possuia
+0A61CA65B273DB8211E9C20D35EBFD4A,26-35 anos,2013,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,"Vagas destinadas aos pretos, pardos e indigenas independente de renda",Não Possuia
+0AA1511124EA5B7EA5D54E0A648BF830,Acima de 35 anos,2021,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Preta,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Possuia
+0AB125652E17E83893FBEA61BECC9454,Menos de 19 anos,2018,Processo Seletivo - SiSU,2023,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Possuia
+0ACE141F8779C77B60CDC66FA22DA900,Menos de 19 anos,2011,Vestibular,2018,Formado,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+0AD19A1CD666B3B65B6E46AD4CCC42F5,19-25 anos,2008,Vestibular,2014,Formado,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+0B214389FAC101BF39D422494DB14302,26-35 anos,2013,Processo Seletivo - SiSU,2014,Jubilamento,Rio Branco-AC,Nao Declarada,Deficiencia Sensorial Visual,Vagas destinados aos candidatos deficientes,Não Possuia
+0C28423A88B5DBFFD0D1EE2AEC41EFD0,19-25 anos,2017,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,"Candidatos de Escola Publica com Baixa Renda (Pretos, Pardos e Indigenas)",Não Possuia
+0C71F0A8C36A3212E6569E6186FEBD41,26-35 anos,2013,Processo Seletivo - SiSU,2014,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,"Vagas destinadas aos pretos, pardos e indigenas independente de renda",Não Possuia
+0C9AECD2692CFE28067BB0EBA9AE409A,Menos de 19 anos,2012,Enem,2014,Desistencia,Cuiaba-MT,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+0D45AF329C08F0C1A96B274414684A37,19-25 anos,2018,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+0D697DA70A16C81E76AD0DC23026455C,Acima de 35 anos,2012,Enem,2018,Jubilamento,Rio de Janeiro-RJ,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+0DC8732A8BA6B3B578C1E891A9EB6AA3,Menos de 19 anos,2011,Vestibular,2017,Formado,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+0DD0D0B69018277376ED20A21DD83D05,Acima de 35 anos,2022,Processo Seletivo - SiSU,2023,Jubilamento,Rio Branco-AC,Preta,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+0DE2ED0FE0325D1D3F608825CF383E2E,19-25 anos,2016,Reopcao de Curso,,Sem Evasao,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Possuia
+0E98729842C746B65E68C204D5C17C2A,Menos de 19 anos,2015,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Geral,Não Possuia
+0EC15BAA9437436FFF3E5FDBB4A7CAE3,19-25 anos,2011,Vestibular,2014,Jubilamento,Nao informado,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+0EC5BA872F1179835987F9028C4CC4DF,Menos de 19 anos,2008,Vestibular,2012,Formado,Cruzeiro do Sul-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+0F3DF30B426F47754822336CE604D5CD,Menos de 19 anos,2018,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+0F54CB96BECE9D1A664BBA2EB760DEAA,19-25 anos,2019,Transferencia Externa,2020,Transferido,Assis Chateaubriand-PR,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+0F995C9AEB1565EDD78ADB37D2993D66,19-25 anos,2010,Vestibular,2010,Desistencia,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+0FB52B18A70889F009010ECF918BA7D9,Acima de 35 anos,2020,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+0FB8280EA2D4C3DEA9DB1C1C7FFA4581,Acima de 35 anos,2018,Processo Seletivo - SiSU,2019,Desistencia,Rio Branco-AC,Preta,Deficiencia Sensorial Visual,Deficiente,Não Possuia
+10527289DA58F369EF0D6AE2BB73E646,Menos de 19 anos,2010,Vestibular,2014,Desistencia,Assis Brasil-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+106BBAA15362A719F7F61EBA4845F4F5,19-25 anos,2017,Processo Seletivo - SiSU,2017,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,"Candidatos de Escola Publica com Baixa Renda (Pretos, Pardos e Indigenas)",Não Possuia
+107037604F12BC8AE27E444773372FEF,Acima de 35 anos,2018,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Possuia
+10CAAD252666C9992275B6BE2555DC6E,Acima de 35 anos,2011,Vestibular,2014,Jubilamento,Nao informado,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+10E5B435085699BB6FA8583B17F1B200,Menos de 19 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Possuia
+11B4076AFD563B2612049C2C77465B32,26-35 anos,2011,Vestibular,2017,Jubilamento,Nao informado,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+11BD0FF5338B26539C318B8647DFD515,Menos de 19 anos,2011,Vestibular,2018,Jubilamento,Nao informado,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+123EE944824996433BA17E57E8A227C9,19-25 anos,2008,Transferencia Externa,2014,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Possuia
+129CCFC1C1A82B0B23D4473A72373A0A,Menos de 19 anos,2008,Vestibular,2012,Formado,Ariquemes-RO,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+12A84AB992BDD63F5303E6DD60CC10E8,Acima de 35 anos,2010,Vestibular,2018,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Possuia
+131B54C0E76A60DBD66F9854C282FCC0,Menos de 19 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Re,Não Possuia
+14FD9FB569A4F7693950B8A7F2E66699,Menos de 19 anos,2013,Processo Seletivo - SiSU,2014,Desistencia,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Vagas destinadas aos candidatos de escola publica e baixa renda,Não Possuia
+159497659EBFF7149AFD18ED6D5602E3,19-25 anos,2019,Processo Seletivo - SiSU,2023,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+15978EC98CC7FB6D2B95CD397439F23A,Acima de 35 anos,2013,Processo Seletivo - SiSU,2013,Desistencia,Tres Rios-RJ,Nao Declarada,Sem Deficiencia,"Vagas destinadas aos pretos, pardos e indigenas independente de renda",Não Possuia
+15B16CF1AA29A55A67EEEB7DC6E5F686,Menos de 19 anos,2011,Vestibular,2019,Jubilamento,Nao informado,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+15D1A876D2BF59243BE3BF0C95124747,26-35 anos,2011,Vestibular,2015,Desistencia,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+1602C2B2B3692F45F9C6F00E435BDDE5,Menos de 19 anos,2012,Enem,2017,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Possuia
+16B21938C0C7B65A2D829E9672F5F825,Menos de 19 anos,2016,Processo Seletivo - SiSU,2016,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,Geral,Não Possuia
+16D2F02A8BE0B104E69B6E15345623CF,Acima de 35 anos,2012,Enem,2019,Formado,Rio Branco-AC,Nao Declarada,Fisica,Ampla Concorrencia,Possuia
+17330AF5B950D1D9B8F74629F91BABA7,26-35 anos,2019,Processo Seletivo - SiSU,2022,Jubilamento,Cruzeiro do Sul-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Não Possuia
+175F9F6B6C231AE5DE90058948F6228C,Menos de 19 anos,2016,Processo Seletivo - SiSU,2016,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,"Candidatos de Escola Publica Independente de Renda (Pretos, Pardos e Indigenas)",Não Possuia
+181D697BA3986E50233A8DFB70D2D11A,Acima de 35 anos,2017,Processo Seletivo - SiSU,,Sem Evasao,Porto Velho-RO,Branca,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda,Possuia
+1821CE1CC29352198FBC729EFDFA528A,19-25 anos,2018,Transferencia Externa,2022,Jubilamento,Tarauaca-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+185D74F7B374C0AC461CA88FDB8C8B4A,26-35 anos,2016,Enem,2017,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,Geral,Não Possuia
+185FD70FB041D6BE619D9B634EB28685,Menos de 19 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Preta,Sem Deficiencia,Ampla Concorrencia,Possuia
+18C968E3898F39820946387C9E8AA5C8,19-25 anos,2015,Processo Seletivo - SiSU,2019,Formado,Tarauaca-AC,Branca,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda,Possuia
+18DA79F0A36D35A0A29D32CC4E1AD526,Acima de 35 anos,2021,Processo Seletivo - SiSU,2023,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Não Possuia
+19101D2E639B7F9D2D85022CE1FECE21,26-35 anos,2017,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Preta,Fisica,Candidatos Deficientes,Possuia
+19FFC09943F1DFFB251CEF5A0B71C183,19-25 anos,2017,Processo Seletivo - SiSU,2018,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+1A1D636C98F9E63B3CBB63F069FFE923,Menos de 19 anos,2014,Processo Seletivo - SiSU,2017,Formado,Sena Madureira-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Possuia
+1A69BEF79E513338886E4C558B15FFCA,Menos de 19 anos,2014,Processo Seletivo - SiSU,2017,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+1A7DA998DED68C09B6FB68853539E59A,Menos de 19 anos,2012,Enem,2016,Formado,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Possuia
+1A944D032CFA82FD3FCCB56BA18FB914,Acima de 35 anos,2011,Vestibular,2012,Desistencia,Cruzeiro do Sul-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+1AA099D408FE4285329682B5DB961CF0,Acima de 35 anos,2021,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Possuia
+1AA7622E223C7EEE981A7776FE70000C,Menos de 19 anos,2021,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Branca,Fisica,Ampla Concorrencia,Não Possuia
+1ACD4D26929098C6AF011ED1A5D93E9D,Acima de 35 anos,2013,Processo Seletivo - SiSU,2014,Jubilamento,Cruzeiro do Sul-AC,Nao Declarada,Sem Deficiencia,Vagas destinadas aos candidatos de escola publica e baixa renda,Não Possuia
+1AF8FE938EAA23EE6C9CFBAC31BC2AE3,Menos de 19 anos,2019,Processo Seletivo - SiSU,2019,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Não Possuia
+1B1F4205AB5D9B437C143FC6D7E18C80,Menos de 19 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+1B4F2F6F94B053E3A32726E62B85DB9C,Acima de 35 anos,2015,Processo Seletivo - SiSU,2019,Formado,Brasileia-AC,Nao Declarada,Sem Deficiencia,Geral,Possuia
+1C215A069A482FD705BA2D9396602A38,19-25 anos,2019,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Possuia
+1C2ADD622B27D7D712843ACA43C7503B,Menos de 19 anos,2021,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Branca,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda,Possuia
+1CA029F8D52A7B0CF97A4E2B09AE4042,Menos de 19 anos,2014,Processo Seletivo - SiSU,2018,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,"Vagas destinadas aos pretos, pardos e indigenas independente de renda",Possuia
+1D10712905E2FAF91DE6700424D443F6,Menos de 19 anos,2014,Processo Seletivo - SiSU,2019,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+1D5D4D8436C1DE93A0DC38FE90E063BB,Acima de 35 anos,2019,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Possuia
+1D98E6AD3ED4F30AFACADCF23FE145FA,19-25 anos,2009,Vestibular,2018,Jubilamento,Xapuri-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+1DA76F4E60189995AA60CC1D19993AE9,26-35 anos,2013,Processo Seletivo - SiSU,2014,Jubilamento,Placido de Castro-AC,Nao Declarada,Sem Deficiencia,"Vagas destinadas aos pretos, pardos e indigenas independente de renda",Não Possuia
+1DD5A4016C624EF51F0542D4AE60E281,19-25 anos,2008,Vestibular,2012,Jubilamento,Feijo-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+1E5BEF26E8DFBF7D72AB4979D14FAEA1,Menos de 19 anos,2017,Processo Seletivo - SiSU,2021,Formado,Rio Branco-AC,Parda,Sem Deficiencia,"Candidatos de Escola Publica Independente de Renda (Pretos, Pardos e Indigenas)",Possuia
+1E78E7323C18CAA97A193CB00302ED8B,Menos de 19 anos,2010,Vestibular,2018,Formado,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+1EC50ED5E408DB09C21F88566223C2B9,19-25 anos,2016,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Amarela,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda,Possuia
+1F14D66C8C9C1E56FE8AC029391936A7,Acima de 35 anos,2021,Processo Seletivo - SiSU,2022,Desistencia,Rio Branco-AC,Branca,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda,Não Possuia
+1F2013E3DCFA352CA993CC25CC334C10,19-25 anos,2009,Vestibular,2016,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+1F3363EBBC62357E626552CBF22A9351,19-25 anos,2020,Processo Seletivo - SiSU,2022,Jubilamento,Acrelandia-AC,Preta,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Não Possuia
+1F974E395FE33F5CE91659B887A27B48,19-25 anos,2021,Processo Seletivo - SiSU,,Sem Evasao,Tarauaca-AC,Branca,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda,Possuia
+1FBA5CE97F702C38B3E76367546CD227,Menos de 19 anos,2016,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Geral,Não Possuia
+1FDE33D3E57CF927B0E348C8C23BDA14,Acima de 35 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Possuia
+1FDFB6F89419A6D2E520339BFEA2D0BB,Menos de 19 anos,2017,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+20086683A16F0F9FF5EE662AFA9FBFBF,26-35 anos,2020,Processo Seletivo - SiSU,2023,Jubilamento,Sena Madureira-AC,Parda,Deficiencia Mental,Candidatos com deficiencia,Possuia
+203434495046C2CA2F0AA1377B0D9BBA,19-25 anos,2023,Selecao para Vagas Remanescentes,,Sem Evasao,Manoel Urbano-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Possuia
+209700C8CCFB57CF8B2B24E4608BDA14,Acima de 35 anos,2019,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Possuia
+20B46671CD9422FE5AFB7740096F63F2,Menos de 19 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Preta,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+212348B03AAC5EF6D1018E3769DFDC09,Menos de 19 anos,2012,Enem,2019,Formado,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Possuia
+219BCA0424068065F16847266063C855,19-25 anos,2017,Processo Seletivo - SiSU,,Sem Evasao,Porto Velho-RO,Preta,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+21C4D74CCDFC49284EEAC9667F4AB8AB,19-25 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Sena Madureira-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+21CE4B60B04414517D01ABE505F76DA9,Menos de 19 anos,2016,Processo Seletivo - SiSU,2023,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,"Candidatos de Escola Publica Independente de Renda (Pretos, Pardos e Indigenas)",Possuia
+22C4329ABF5EB9A69028F30C32AC264B,Menos de 19 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Não Possuia
+2306177F9EDBFCA5780E4743C7DFC5D7,Acima de 35 anos,2020,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Branca,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda,Possuia
+232CD4CA5EFA68C0AAACAF8A874C23AB,26-35 anos,2009,Vestibular,2018,Formado,Medianeira-PR,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+23B3EC0C082BCC9D9B0C4E25989BDD22,Menos de 19 anos,2009,Vestibular,2013,Formado,Xapuri-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+23FDC2B96C1AFDF6D8AB932F150EF29A,26-35 anos,2015,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Geral,Não Possuia
+2451DE50D2DDDD51F68C32C2A564B300,19-25 anos,2014,Processo Seletivo - SiSU,2023,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+2485D846DC142C8056986D6B551F5486,Menos de 19 anos,2009,Vestibular,2013,Desistencia,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+24CDAA47AD1D6A0D2944344170B8338C,Menos de 19 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Cruzeiro do Sul-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+24E87062155973C97360089ADD8E19D7,Menos de 19 anos,2013,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Vagas destinadas aos candidatos de escola publica e baixa renda,Possuia
+251AC3D1E0619A1166FA15753157EA11,19-25 anos,2013,Processo Seletivo - SiSU,2014,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+251BE5D69CC38DD1D2A72A8B1C324B6A,19-25 anos,2010,Vestibular,2018,Transferido,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+2585EB8DD46328EC14BCE03201541E9D,Menos de 19 anos,2015,Processo Seletivo - SiSU,2022,Formado,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda,Não Possuia
+25B6CA62448AD1547674EA4DF32CAEF0,Menos de 19 anos,2018,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+25C801F83373161C6A13F424AF3C2791,19-25 anos,2015,Processo Seletivo - SiSU,2018,Desistencia,Rio Branco-AC,Branca,Sem Deficiencia,"Candidatos de Escola Publica Independente de Renda (Pretos, Pardos e Indigenas)",Possuia
+25C9ACA781EB787DF5A01A7345B8BA36,Menos de 19 anos,2013,Processo Seletivo - SiSU,2013,Desistencia,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Vagas destinadas aos candidatos de escola publica e baixa renda,Não Possuia
+262668519E91497F7EBF3AB498C7D5CE,19-25 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Não Possuia
+2642C4088801F315789ED587F791F3F2,26-35 anos,2010,Mandado de Seguranca,2014,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+26A95A5834C46C93A5C200BFC6DA212F,Menos de 19 anos,2021,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Não Possuia
+26D681252A4D82A9AA09E048BA343E50,Menos de 19 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Branca,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Não Possuia
+26D6E896DB39EDC7D7BDD357D6984C95,Menos de 19 anos,2008,Vestibular,2012,Formado,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+2711C1C38D9A6F2812B8340B30BE6BA8,Menos de 19 anos,2015,Processo Seletivo - SiSU,2018,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Geral,Não Possuia
+27C88A4CCD8B717AAD3BC4042042202D,Menos de 19 anos,2019,Processo Seletivo - SiSU,,Sem Evasao,Senador Guiomard-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Não Possuia
+27CD72A0F1D3CD199480DE09512D9612,Menos de 19 anos,2011,Vestibular,2018,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+284AD8AA1E739C2FFFC3942E6496E8E3,Acima de 35 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Tarauaca-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+2894DCD561DDDA2954A024C081DB7E50,Acima de 35 anos,2012,Enem,2014,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+28FD3872C62AAD371E8B21061F1A35BD,26-35 anos,2010,Vestibular,2014,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+299024CFE2CD92197E0AB02D2421285C,Acima de 35 anos,2012,Enem,2016,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+29C98CB673C911EE8F9977094A220F17,Acima de 35 anos,2022,Processo Seletivo - SiSU,2023,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Não Possuia
+2A0A1CE251866140A002EF0A7BD8C690,Menos de 19 anos,2014,Processo Seletivo - SiSU,2022,Formado,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Possuia
+2B1488EA4F41F775D267FD910480D14A,Menos de 19 anos,2019,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+2B1F292723CC6F4CA4761F8710141CBB,Menos de 19 anos,2016,Processo Seletivo - SiSU,2018,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,"Candidatos de Escola Publica com Baixa Renda (Pretos, Pardos e Indigenas)",Não Possuia
+2B436D084A19D79AD3FBBFF4245FC7C6,26-35 anos,2012,Enem,2014,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+2B98E671FCBB48F8A586538960C8CFF2,19-25 anos,2013,Processo Seletivo - SiSU,2013,Desistencia,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Vagas destinadas aos candidatos de escola publica e baixa renda,Não Possuia
+2C0DC74E71779CBA5D04DCFF4B72D294,Acima de 35 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Sobral-CE,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+2C43925465956D1A5B42E7B00C9DB6C3,Menos de 19 anos,2014,Processo Seletivo - SiSU,2015,Desistencia,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+2C8E6B5094ADFCFE7FE87F19BB5C3641,26-35 anos,2021,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Preta,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+2CADEBAE208572A73BCC7385D5DE0710,19-25 anos,2016,Transferencia Externa,2023,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+2CE936697D47F1F420DC6EB29B546E1C,Acima de 35 anos,2009,Vestibular,2014,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+2D1BAFE55B0B49961617E5B71CBB1292,Menos de 19 anos,2011,Vestibular,2014,Jubilamento,Nao informado,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+2D261A6E0CF7A273F9D1DDBB31799A9C,19-25 anos,2009,Vestibular,2019,Formado,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+2D712C9E2F4F353C2108751E0EEEA05A,Menos de 19 anos,2011,Convenio,2016,Formado,Ucayali-PER,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Possuia
+2DAC573D6FF24BD9A16140531E156CDC,Menos de 19 anos,2012,Enem,2016,Formado,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+2DAE9D2217D0A6F4280B0FFC7A69CF7E,Acima de 35 anos,2011,Vestibular,2014,Jubilamento,Nao informado,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+2E71E53E5D5315B15A4C18F100A15227,Acima de 35 anos,2015,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Geral,Não Possuia
+2EA6B5478AFBDC33FB58AE1072E3D18B,26-35 anos,2019,Processo Seletivo - SiSU,2019,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Não Possuia
+2F75ED4ECF40F23A4287DCD5D0D2E5F7,Acima de 35 anos,2019,Processo Seletivo - SiSU,2019,Desistencia,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+2FC06D277E31A5DF872AC04EB7E75CD2,26-35 anos,2014,Processo Seletivo - SiSU,2017,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+302626EB160BCD2FF5B9E4A0578E021B,Menos de 19 anos,2014,Processo Seletivo - SiSU,2015,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,"Vagas destinadas aos pretos, pardos e indigenas independente de renda",Não Possuia
+30699E092FABCB864FF2B28AB84E420D,Menos de 19 anos,2014,Processo Seletivo - SiSU,2015,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,"Vagas destinadas aos pretos, pardos e indigenas de baixa renda",Não Possuia
+312CE70BAEA67CA3787F70F2C5A715C8,Menos de 19 anos,2015,Processo Seletivo - SiSU,2018,Formado,Rio Branco-AC,Parda,Sem Deficiencia,Geral,Possuia
+312EC7F8D4615D6DD78477A4F581C612,Menos de 19 anos,2014,Processo Seletivo - SiSU,2017,Formado,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Possuia
+31882DBF700C4B88A999F391EC520665,19-25 anos,2013,Processo Seletivo - SiSU,2017,Formado,Tarauaca-AC,Nao Declarada,Sem Deficiencia,Vagas destinadas aos candidatos de escola publica e baixa renda,Não Possuia
+321311B1A2D186B850844E4197706453,Acima de 35 anos,2019,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+3216F7199AEBFEA5191007EDB7F13098,Menos de 19 anos,2017,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Possuia
+322C649F662992C959D8566D3ECD5F56,Menos de 19 anos,2010,Vestibular,2016,Formado,Belem-PA,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+33A5D9297143C62A93170D9DC2CF5A52,19-25 anos,2015,Processo Seletivo - SiSU,2022,Jubilamento,Porto Velho-RO,Branca,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda,Possuia
+347FFC25FDEED7C35847B4A977D70A61,Menos de 19 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Tarauaca-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Não Possuia
+3545258378F2A3566E4A823D0AD28A3E,Acima de 35 anos,2017,Processo Seletivo - SiSU,2019,Desistencia,Rio Branco-AC,Parda,Fisica,Candidatos Deficientes,Não Possuia
+35498C8F4FF8092C2C74D224AAC6E141,19-25 anos,2019,Processo Seletivo - SiSU,2021,Desistencia,Cruzeiro do Sul-AC,Parda,Deficiencia Mental,Candidatos de Escola Publica Independente de Renda PPI,Não Possuia
+355CD105F79507780FAD8848469BACA1,Menos de 19 anos,2012,Enem,2016,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Possuia
+3567CB56B21B2002242DD83189C69B58,Menos de 19 anos,2015,Processo Seletivo - SiSU,2015,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,Geral,Não Possuia
+357E3FCFD0D70949F2521580BB02F25F,Menos de 19 anos,2020,Processo Seletivo - SiSU,2023,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Possuia
+359E233993D8D2F9790B8265373433D6,19-25 anos,2017,Processo Seletivo - SiSU,2018,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+35D4F69AD714757EC15987ABF27FBF05,19-25 anos,2011,Vestibular,2014,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+35E6F4AED98EF0D4A84D1C735D8A6877,Acima de 35 anos,2018,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Possuia
+35F476BEE2F5015BA0269E3B346F2D13,Menos de 19 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+360B424950EA07E287889568885A1DC7,26-35 anos,2021,Reopcao de Curso,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+3669893E96798CD68787CD735C4EDEC1,Menos de 19 anos,2012,Enem,2018,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Possuia
+36952A03115AC27C7E672D4663689CB0,19-25 anos,2018,Transferencia Externa,,Sem Evasao,Cruzeiro do Sul-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+369FDAA2741244F57B484D8AC1828FD3,Menos de 19 anos,2014,Processo Seletivo - SiSU,2018,Desistencia,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+36B03A528C26169059EC64061B94C0E8,Acima de 35 anos,2018,Transferencia Externa,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+36B14516D8F92201B3FF6326FEC41872,Menos de 19 anos,2017,Processo Seletivo - SiSU,,Sem Evasao,Passo Fundo-RS,Branca,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda,Não Possuia
+373D71F842CA1C1BFF5A1D8B1DA9F1B2,Acima de 35 anos,2008,Vestibular,2014,Jubilamento,Nao informado,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+376DC6A733180CE32B4BCD34F627D846,Acima de 35 anos,2022,Processo Seletivo - SiSU,2023,Jubilamento,Tarauaca-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Não Possuia
+37A3D08ABAC5F12E8C0FAD6CFE21E079,Acima de 35 anos,2017,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Parda,Deficiencias Multiplas,Candidatos Deficientes,Possuia
+37FA3F03F7327C7115D706E0AC58170D,Menos de 19 anos,2011,Vestibular,2017,Jubilamento,Nao informado,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+38692035222CF6F0B1FCB1BA4FDE75A9,Menos de 19 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Não Possuia
+3888059EA26BD007F6B2A527D800C389,Menos de 19 anos,2019,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+393A0F103DFDC3798CF1CFC2E7BDBC1F,19-25 anos,2013,Processo Seletivo - SiSU,2013,Desistencia,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Vagas destinadas aos candidatos de escola publica e baixa renda,Não Possuia
+3982AD9AA31A128D9D04D07596E32234,Menos de 19 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Não Possuia
+39BF36E27F59009002E4CC12664DC8D8,19-25 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Outras Necessidades,Ampla Concorrencia,Não Possuia
+39E35A939BC4DF155A47E39DCDA9B72C,19-25 anos,2009,Transferencia Externa,2017,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+3A3B87FEB5D6E91E5716CB32551D90D6,19-25 anos,2017,Processo Seletivo - SiSU,2017,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,"Candidatos de Escola Publica Independente de Renda (Pretos, Pardos e Indigenas)",Não Possuia
+3A91A097116D6C8B32D41E0C81DD1E9C,Menos de 19 anos,2017,Processo Seletivo - SiSU,2018,Jubilamento,Jaru-RO,Parda,Sem Deficiencia,"Candidatos de Escola Publica Independente de Renda (Pretos, Pardos e Indigenas)",Não Possuia
+3AE5D34EE4C3F8E40F0985B5B97C8414,19-25 anos,2014,Processo Seletivo - SiSU,2016,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+3B43EC40B373CE3468DCCCA34645A12F,Acima de 35 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+3B461E081065BB69ADFC7089D6545C65,Menos de 19 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Preta,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+3B5B8204BF00BFF04186105489D86BF2,Acima de 35 anos,2013,Processo Seletivo - SiSU,2013,Desistencia,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Vagas destinadas aos candidatos de escola publica e baixa renda,Não Possuia
+3BCAF5B4D1C34FC9B475D81E932AFFFB,Menos de 19 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Não Possuia
+3C7B933FA023D881921776FE47B69A0B,Menos de 19 anos,2017,Processo Seletivo - SiSU,2023,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,"Candidatos de Escola Publica Independente de Renda (Pretos, Pardos e Indigenas)",Possuia
+3CE5F6D8606512AD3B1217E43072B9DC,Menos de 19 anos,2011,Vestibular,2014,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+3D0376E47377D3B148BEA4942C2A8708,Menos de 19 anos,2016,Processo Seletivo - SiSU,2018,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,"Candidatos de Escola Publica com Baixa Renda (Pretos, Pardos e Indigenas)",Possuia
+3D9D56627055825A279509DEA880D9C7,Acima de 35 anos,2021,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+3DBAF4B9020576DF8F8505B50E4853A4,19-25 anos,2019,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+3DC249620E30AC3FFC14ED7BB0F46736,19-25 anos,2019,Processo Seletivo - SiSU,2019,Desistencia,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+3DD62FBC6670019466249A809185A876,Menos de 19 anos,2014,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,"Vagas destinadas aos pretos, pardos e indigenas de baixa renda",Possuia
+3E2449EBBEB149857A783B0845C671C2,Acima de 35 anos,2014,Processo Seletivo - SiSU,2016,Jubilamento,Rio Branco-AC,Parda,Fisica,Vagas destinadas aos candidatos deficientes,Não Possuia
+3E8242853CA7831EB03DA9C1CEF03F61,19-25 anos,2012,Enem,2014,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+3EBFDB36A1C782DD12D9780E51881A2C,26-35 anos,2018,Processo Seletivo - SiSU,2023,Jubilamento,Porto Velho-RO,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Possuia
+3FBF4894946C9D521C401634CAC70217,Menos de 19 anos,2021,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+40236B7056C533DA38D9F7151C070B6D,Menos de 19 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Possuia
+406373BF5F5B187BC4AADDFF066D5282,19-25 anos,2014,Processo Seletivo - SiSU,2022,Formado,Alegrete-RS,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+40882BEBD317419CFCEA3ADC3DCFAE6C,Acima de 35 anos,2008,Transferencia Externa,2019,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+40EAE2780E80243BF0324B4557EE2FD8,19-25 anos,2010,Vestibular,2014,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+41AFCF0F4146CEBDCEED1088402852D7,Menos de 19 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+4248F287DC9FAB6ABFCF1C333AA9838E,Acima de 35 anos,2010,Vestibular,2014,Formado,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+4270DBF131A6B90E675B8861DD699AB5,Acima de 35 anos,2009,Vestibular,2016,Formado,Tarauaca-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+42A2F3D8B0671E4D84D140C138CE0D89,Menos de 19 anos,2018,Processo Seletivo - SiSU,2018,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+44B3B75C339045A8CCBBF374DCC0CDBF,19-25 anos,2021,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Possuia
+450F494136D806344675040A107518CD,Acima de 35 anos,2017,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+4530DE238502B5AEE3AD8EEC65A4A70F,Menos de 19 anos,2008,Vestibular,2010,Desistencia,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+45AF4AF2AE6BF55E858A019A76AA20A7,26-35 anos,2016,Reopcao de Curso,2022,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+4636E611824778B40AB4243C0A1549F4,19-25 anos,2021,Processo Seletivo - SiSU,,Sem Evasao,Sena Madureira-AC,Preta,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda,Possuia
+46625972490BD5599E5A21C11F16C3CC,Menos de 19 anos,2021,Processo Seletivo - SiSU,2022,Jubilamento,Sena Madureira-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+47B32EF70920C14B58D6E0025C479C67,Acima de 35 anos,2018,Transferencia Externa,2022,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+47B44B9BEB1CFA6DFE1ED044B240DB61,26-35 anos,2015,Processo Seletivo - SiSU,2017,Jubilamento,Lajeado-RS,Branca,Sem Deficiencia,Geral,Possuia
+47BA327B57BE22B98EEE0E5DC3E14711,Acima de 35 anos,2008,Vestibular,2014,Jubilamento,Fortaleza-CE,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+47CC8FBDAEACD8C1D9FE325B11E0287E,19-25 anos,2009,Vestibular,2012,Formado,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+4843444B2CD1C2D4B2B261E396C5DA4A,19-25 anos,2008,Vestibular,2014,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Possuia
+4860F5CBEA5E5DBB3B1D6D94C2157DF5,19-25 anos,2013,Transferencia Externa,2016,Jubilamento,Cruzeiro do Sul-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+486F06AA533267BED3C590B52DB3D18D,Menos de 19 anos,2008,Vestibular,2014,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+48E2B7285E724A6F18786510A46ECEA7,Menos de 19 anos,2018,Processo Seletivo - SiSU,,Sem Evasao,Feijo-AC,Branca,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda,Não Possuia
+496DE70CDB579AA363B818CBB913D108,Menos de 19 anos,2018,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+49D17048771E15A6C25F142B9E513E0A,26-35 anos,2020,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Preta,Fisica,Ampla Concorrencia,Possuia
+4A0A330F3FE04FAB7704255C4230DC6D,26-35 anos,2017,Processo Seletivo - SiSU,2018,Jubilamento,Rio Branco-AC,Preta,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+4A9A32256809FC17CD9E68E5F6FEB3ED,26-35 anos,2015,Processo Seletivo - SiSU,2018,Jubilamento,Morada Nova-CE,Nao Declarada,Sem Deficiencia,"Candidatos de Escola Publica com Baixa Renda (Pretos, Pardos e Indigenas)",Não Possuia
+4AD46E8176DA58AF20CF6DB9E0D3673D,Menos de 19 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Sao Lourenco do Oeste-SC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+4AD7FFF9CCF799F755109FA80DCD8B10,26-35 anos,2013,Processo Seletivo - SiSU,2013,Desistencia,Maceio-AL,Parda,Sem Deficiencia,"Vagas destinadas aos pretos, pardos e indigenas independente de renda",Não Possuia
+4B419812269CE34CBEF6F46A71D55B50,Acima de 35 anos,2020,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Possuia
+4B650319CCA0B2D0480D58B5C6451A28,Menos de 19 anos,2017,Processo Seletivo - SiSU,2017,Desistencia,Tres Marias-MG,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+4B7BFFE0B6E29D949DE3EA0F974007C6,Menos de 19 anos,2019,Processo Seletivo - SiSU,2023,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+4BBD2D541D623EC13D37C7A1AA64A903,Menos de 19 anos,2012,Enem,2018,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+4C038C24158AA04F63A0DDF71C462716,19-25 anos,2008,Transferencia Externa,2014,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+4C270CF7B732CBAE0431F333348FCBBB,Menos de 19 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Possuia
+4C93E18166419DA61B1CA433C866D9E5,19-25 anos,2010,Vestibular,2014,Formado,Sao Paulo-SP,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+4D6D7868BA059092B1C7FB35B1C9B960,19-25 anos,2020,Reopcao de Curso,,Sem Evasao,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+4DBEDC570A51DDBB060532CC5F6D5705,19-25 anos,2010,Vestibular,2014,Desistencia,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+4DDC45A9DE1065695A90E87BE37471C0,19-25 anos,2017,Processo Seletivo - SiSU,2017,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+4E253F59CE72377038AB855694E4903C,26-35 anos,2016,Portador de Diploma Superior,2018,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+4E9101A27E90CCF06980744E76749C2C,Menos de 19 anos,2021,Processo Seletivo - SiSU,2023,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda,Não Possuia
+4F21ACB802468C4B2AC37CCB0B7AB6EC,Menos de 19 anos,2016,Processo Seletivo - SiSU,2019,Formado,Rio Branco-AC,Branca,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda,Possuia
+4F9416948E4B30B534DAF0EC5564013B,Menos de 19 anos,2016,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,"Candidatos de Escola Publica Independente de Renda (Pretos, Pardos e Indigenas)",Não Possuia
+4FAE0695454A986D8328AADBA1534575,Menos de 19 anos,2020,Processo Seletivo - SiSU,,Sem Evasao,Mancio Lima-AC,Preta,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Possuia
+4FEC0219FFABE5BFBF68B34FE39FD4DE,Menos de 19 anos,2020,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+4FF7ACC3AF759D2B27BA34A457C41932,19-25 anos,2017,Processo Seletivo - SiSU,2017,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,"Candidatos de Escola Publica com Baixa Renda (Pretos, Pardos e Indigenas)",Não Possuia
+50311A81EA533E1EF7C497E042778E6B,26-35 anos,2022,Portador de Diploma Superior,2023,Jubilamento,Rio Branco-AC,Preta,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+508A37F0AC8738A76C680AF8B4C512B4,Menos de 19 anos,2010,Vestibular,2016,Formado,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+50BB9595EB8BC365BA5E12C0D6E47B60,19-25 anos,2009,Vestibular,2016,Formado,Rio de Janeiro-RJ,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+50C1CB748BE1FE2ED080703FC5A815B7,Acima de 35 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+512844C25CD1C9AF079BA08F868EB637,19-25 anos,2009,Vestibular,2014,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+513D6BDBAED51319E9AA9F84A7F7518E,Acima de 35 anos,2016,Processo Seletivo - SiSU,2022,Formado,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda,Possuia
+518D52EEE664842CE523E2CCE507315C,Menos de 19 anos,2010,Vestibular,2018,Formado,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+51E7FEA7F69EF6875F82E22C5EDA5E26,19-25 anos,2010,Vestibular,2016,Formado,Belo Horizonte-MG,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+51F5EE7B49C5802A4AD2257148B44C71,Menos de 19 anos,2013,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Vagas destinadas aos candidatos de escola publica e baixa renda,Possuia
+521EAE94653641EC7BE496DB736CE3F6,19-25 anos,2009,Vestibular,2014,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+52DEBCF2062897C067B0781C8E018A07,Menos de 19 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+537C85F1E97A1C0DB57CA7115F2FD64C,Menos de 19 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Alpestre-RS,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+5409B229DF3E46A0A6D20B2751FBE705,26-35 anos,2014,Processo Seletivo - SiSU,2016,Jubilamento,Campo Maior-PI,Preta,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+54CAF3F6167335A6DAED0946B2D4C5D5,Menos de 19 anos,2021,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+550B20428C9B32AC84A7A0C575960CE5,Menos de 19 anos,2015,Processo Seletivo - SiSU,2020,Formado,Rio Branco-AC,Parda,Sem Deficiencia,"Candidatos de Escola Publica com Baixa Renda (Pretos, Pardos e Indigenas)",Possuia
+558ADE3A9B173B4C3EAF7CAEC3C66381,Menos de 19 anos,2016,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Geral,Não Possuia
+55E0E14567B396C814A22EEE053D34CC,Menos de 19 anos,2009,Vestibular,2014,Formado,Cacoal-RO,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+56E0429AC01477E50693E6F5FDAF6333,Menos de 19 anos,2017,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+57059F591928DAAEB800384FDBEF7627,Menos de 19 anos,2021,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Deficiencia Mental,Candidatos com deficiencia,Não Possuia
+572F88DEE7E2502B8B919AFB49FFFE53,19-25 anos,2009,Vestibular,2014,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+578A92BE24DCA5C93924C0D912EB46D5,Menos de 19 anos,2014,Processo Seletivo - SiSU,2016,Desistencia,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+57932F8AEF4CFBD1E7FFC875C3AB4423,19-25 anos,2014,Processo Seletivo - SiSU,2017,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+582CA5172EB531BA24FBEAF043DE3D0D,Acima de 35 anos,2016,Processo Seletivo - SiSU,2023,Jubilamento,Vigia-PA,Nao Declarada,Sem Deficiencia,"Candidatos de Escola Publica Independente de Renda (Pretos, Pardos e Indigenas)",Não Possuia
+58AE64F00BA804691EE209EB36654B3C,Acima de 35 anos,2012,Enem,2022,Desistencia,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Possuia
+58AEDFA8090B3BD19179BDA8615A2690,Menos de 19 anos,2016,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,"Candidatos de Escola Publica com Baixa Renda (Pretos, Pardos e Indigenas)",Possuia
+593F4A8705FD0D72D47EFB651BDFB135,Menos de 19 anos,2017,Transferencia Externa,2018,Desistencia,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+596B42EB5FE47DE3F9348936BFBDC345,Acima de 35 anos,2019,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+59CA489CEEB5610288F9DA184E668243,Acima de 35 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Cruzeiro do Sul-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Não Possuia
+59D49E1EF1CC5496DFDE1A1CC0C74004,19-25 anos,2016,Transferencia Externa,2022,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+59DDC55F3D2F2E20AAF626E342FDCAC0,Acima de 35 anos,2021,Processo Seletivo - SiSU,2023,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+59FD033A2DE3BC87962411368496D912,Acima de 35 anos,2020,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Preta,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+5A0DE25C4BCAA248EC1765BCB0863712,Menos de 19 anos,2011,Vestibular,2014,Transferido,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+5A1B4CB5A007C11A4200597B707CCD75,19-25 anos,2021,Reopcao de Curso,2023,Jubilamento,Montes Claros-MG,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+5A5FA2512D295BC18B5D557FB34A0888,Acima de 35 anos,2008,Vestibular,2012,Desistencia,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+5B299E073218C6160B33DC2AE691920C,Menos de 19 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+5B6F6F2DF2BD1F461A19C19F65161223,Acima de 35 anos,2011,Vestibular,2014,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+5B8AC1BF8013B0204A2C0E1988AAFE75,Menos de 19 anos,2009,Vestibular,2019,Jubilamento,Sena Madureira-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+5BFC38E4B61DFBCEC432AFE2401B7AAB,Menos de 19 anos,2020,Processo Seletivo - SiSU,,Sem Evasao,Porto Velho-RO,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+5C9ED990F67300B9AD87BD008CCE0D88,Acima de 35 anos,2009,Mandado de Seguranca,2017,Formado,Macapa-AP,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+5D6D1C0E9BE7AEEA751074BC7B4CFBFA,Menos de 19 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Não Possuia
+5D9E37D3DB09F8460BA8EF65B16596CA,19-25 anos,2016,Processo Seletivo - SiSU,2018,Desistencia,Cacoal-RO,Branca,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda,Possuia
+5DBAFBB281F14D2E2608F35E74D97B46,19-25 anos,2014,Processo Seletivo - SiSU,2022,Jubilamento,Porto Velho-RO,Parda,Sem Deficiencia,"Vagas destinadas aos pretos, pardos e indigenas de baixa renda",Possuia
+5DE356E0A5585088CAC93FDE4C34A8EB,Menos de 19 anos,2019,Processo Seletivo - SiSU,2023,Desistencia,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+5E054129CB67A2ED4CBF7AE2622F3375,Menos de 19 anos,2011,Vestibular,2018,Formado,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+5E2008C65F6812A893E569AFDFDD7D4B,Menos de 19 anos,2018,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Preta,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+5E5B2D99A9A070119580C5BF49E90BB4,Menos de 19 anos,2010,Vestibular,2014,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+5F285E4CB6488DCD667AF6EC31642298,26-35 anos,2014,Processo Seletivo - SiSU,2017,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,"Vagas destinadas aos pretos, pardos e indigenas independente de renda",Não Possuia
+5F8A451FE4917F0A5C7D39FF14660F94,Acima de 35 anos,2009,Vestibular,2014,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+5FBBAFB101147139D1766E4E1428F01C,19-25 anos,2018,Processo Seletivo - SiSU,,Sem Evasao,Capixaba-AC,Preta,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Possuia
+60041D31882E8D08E106B82DD4197A76,Menos de 19 anos,2018,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Possuia
+607A43BBF5CA3581896FB1EDBEB6D4ED,Acima de 35 anos,2014,Processo Seletivo - SiSU,2016,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+60CF63B263CA6B6955D9BB680CC85CA9,Menos de 19 anos,2010,Vestibular,2017,Jubilamento,Fortaleza-CE,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+6188D67C7355D4166B6D12DB43485400,26-35 anos,2014,Processo Seletivo - SiSU,2022,Jubilamento,Tangara da Serra-MT,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+61AE94CAA4DF330F8633334FA4CDC804,Menos de 19 anos,2016,Processo Seletivo - SiSU,2017,Desistencia,Rio Branco-AC,Branca,Sem Deficiencia,Geral,Não Possuia
+61E437816D0D78C62ABC93ED2770AC7A,19-25 anos,2018,Processo Seletivo - SiSU,2021,Desistencia,Cruzeiro do Sul-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+62AB3CE23F9884DB423CE886EB945289,26-35 anos,2012,Enem,2016,Formado,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+62D7CFAA9F6B9CCF1BB85607BB6E7A13,19-25 anos,2009,Vestibular,2013,Desistencia,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+6376CF9D9FFD7834017C4AFC8505B635,Menos de 19 anos,2021,Processo Seletivo - SiSU,2023,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+6387B3C7211C4BCBDFF0C3D7AB085A2D,Menos de 19 anos,2016,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Geral,Não Possuia
+63A73899C69371BB22C6F3B279442453,Acima de 35 anos,2019,Processo Seletivo - SiSU,2023,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+640F96591DD2D24F3A861DC2B5727F2E,Acima de 35 anos,2022,Processo Seletivo - SiSU,2023,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+64CE463C6856E0E3867DEA50033E8A29,Menos de 19 anos,2010,Vestibular,2014,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+6556B0F81751F8BC47D5D559EB04A114,19-25 anos,2014,Transferencia Ex-Oficio,2019,Formado,Bage-RS,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Possuia
+65627CC01F7CE84B7C34B98BE326092E,Menos de 19 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Porto Velho-RO,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+65BC6B569D41780546EEB0D5B63626F2,Menos de 19 anos,2013,Processo Seletivo - SiSU,2017,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,Vagas destinadas aos candidatos de escola publica e baixa renda,Não Possuia
+667E73ABB11A09BFAC437B5479CE6552,26-35 anos,2013,Processo Seletivo - SiSU,2014,Jubilamento,Placido de Castro-AC,Nao Declarada,Sem Deficiencia,"Vagas destinadas aos pretos, pardos e indigenas independente de renda",Não Possuia
+66940E2515080ED145C0DFF8EFFEE483,Acima de 35 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Sena Madureira-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Não Possuia
+66B94281F8C6F8BA217609604EE6332F,19-25 anos,2019,Transferencia Externa,2022,Jubilamento,Rio Branco-AC,Preta,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+66C62B60B79F881C67D1EA2B38D3A23C,19-25 anos,2018,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Possuia
+66D58AB619387EBB945E0E3ABE5E0A1C,19-25 anos,2016,Transferencia Externa,2018,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+66EB81A2A1C2E634F6E2993408674FCE,Menos de 19 anos,2016,Processo Seletivo - SiSU,2019,Formado,Rio Branco-AC,Preta,Sem Deficiencia,"Candidatos de Escola Publica Independente de Renda (Pretos, Pardos e Indigenas)",Possuia
+67489FFB437FE971F1F045C13AE59A77,Acima de 35 anos,2019,Portador de Diploma Superior,2023,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+67772D6E54BC393A6F67E16BAC3F83DA,19-25 anos,2010,Vestibular,2013,Desistencia,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+6789A028871524BE3A84E0C3490B4177,Menos de 19 anos,2013,Processo Seletivo - SiSU,2019,Formado,Caceres-MT,Nao Declarada,Sem Deficiencia,Vagas destinadas aos candidatos de escola publica e baixa renda,Possuia
+67ADF2B28A9BCA8C22616CADAC7B6B84,26-35 anos,2008,Vestibular,2014,Jubilamento,Nao informado,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+69595C9B99F609D75FBB8232D9BD73D3,26-35 anos,2021,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Não Possuia
+6B283B8C9AA9DCADA9EDF49818D31937,19-25 anos,2010,Vestibular,2014,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+6B7D24FD9A098D52B53FCC2CBD168789,Menos de 19 anos,2010,Vestibular,2017,Jubilamento,Senador Guiomard-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+6B814D3B944DCAAEB9538F0CEA60B838,Acima de 35 anos,2014,Processo Seletivo - SiSU,2018,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,"Vagas destinadas aos pretos, pardos e indigenas de baixa renda",Possuia
+6B9A66AFA26A38E7D9127E2CBDEC35A7,Menos de 19 anos,2018,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+6BCF5C355DAC3E11AAAD6202D366DF53,26-35 anos,2017,Processo Seletivo - SiSU,2018,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,"Candidatos de Escola Publica com Baixa Renda (Pretos, Pardos e Indigenas)",Não Possuia
+6BD22A86B1F7A3A11DE928D301F86D67,19-25 anos,2015,Processo Seletivo - SiSU,2017,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,"Candidatos de Escola Publica com Baixa Renda (Pretos, Pardos e Indigenas)",Não Possuia
+6BD98FA8D5A7129DA9E1E2E3E433EB7B,Menos de 19 anos,2019,Processo Seletivo - SiSU,,Sem Evasao,Cruzeiro do Sul-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+6C18D13E9A2E04855A83A6CE1A9117FE,26-35 anos,2016,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Branca,Sem Deficiencia,Geral,Não Possuia
+6C1AEC706FFC46D4BB34DADD5B853BE9,19-25 anos,2015,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Preta,Sem Deficiencia,Geral,Não Possuia
+6C91E2BFB5160AE267D4F353CF706F52,26-35 anos,2012,Enem,2019,Formado,Porto Velho-RO,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Possuia
+6D061501B6395B30CFB6AAA256E138AF,19-25 anos,2012,Enem,2016,Formado,Belo Horizonte-MG,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Possuia
+6D390DCB6EACA31079E9876887A36006,Menos de 19 anos,2013,Processo Seletivo - SiSU,2019,Formado,Rio Branco-AC,Parda,Sem Deficiencia,"Vagas destinadas aos pretos, pardos e indigenas independente de renda",Possuia
+6DDD67DDA226C05F00795F05F37F3797,Menos de 19 anos,2019,Processo Seletivo - SiSU,,Sem Evasao,Cruzeiro do Sul-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+6F1110B10375FC596C6CEA03FD3E1D24,Menos de 19 anos,2010,Vestibular,2014,Formado,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+6F240678A0A4B55D7F4046426B637FEC,Menos de 19 anos,2011,Vestibular,2016,Formado,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+6F350848B6612B5249DAAA73CEC0189B,Acima de 35 anos,2008,Vestibular,2010,Desistencia,Tarauaca-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+6FCDB2951819A022C6C46C51F89DF49A,Acima de 35 anos,2016,Processo Seletivo - SiSU,2018,Jubilamento,Rio Branco-AC,Branca,Fisica,Candidatos Deficientes,Não Possuia
+70C278E66C9BC7683F0AD2748F694B43,19-25 anos,2011,Transferencia Externa,2014,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+70D482756D8B73A1F758D9CBECDF4626,19-25 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+70EFBF02D17896982D2D1D0D249D51E2,Menos de 19 anos,2013,Processo Seletivo - SiSU,2017,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Vagas destinadas aos candidatos de escola publica e baixa renda,Não Possuia
+70F2C0AD8B6739693E211445CDA05B1E,19-25 anos,2019,Processo Seletivo - SiSU,,Sem Evasao,Brasileia-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Possuia
+7144E2BA113BACDD760B73AE7478C74E,Acima de 35 anos,2012,Enem,2016,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Possuia
+714CB7478D98B1CB51D1F5F515F060C7,Acima de 35 anos,2008,Vestibular,2014,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+71985D378F51D215DD24FDB8026F30CB,Acima de 35 anos,2019,Processo Seletivo - SiSU,2023,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+71A54E430B70564CC40786DDD4789B2F,Acima de 35 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Deficiente,Não Possuia
+71D3E01703573235370836712A568D26,Menos de 19 anos,2021,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+71F6E8934D73BA40D59EDF694A65D456,19-25 anos,2014,Processo Seletivo - SiSU,2016,Jubilamento,Feijo-AC,Branca,Sem Deficiencia,Vagas destinadas aos candidatos de escola publica independente de renda,Não Possuia
+723CAE5B3E5291141A34A208E3F1D096,Menos de 19 anos,2012,Enem,2018,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Possuia
+72538B53FFE9BEB63D6F5650455C0F8F,Menos de 19 anos,2015,Processo Seletivo - SiSU,2015,Desistencia,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Geral,Não Possuia
+72A6D73AB903FFB7B81F5FC679103A7E,19-25 anos,2008,Vestibular,2016,Jubilamento,Placido de Castro-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+7318EEBBEA30CEA9561C1EDFBF3A3451,Acima de 35 anos,2013,Processo Seletivo - SiSU,2014,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Vagas destinadas aos candidatos de escola publica e baixa renda,Não Possuia
+73FE05CF8B7F2F65D26444D2BADB9DC1,Acima de 35 anos,2017,Processo Seletivo - SiSU,2017,Desistencia,Rio Branco-AC,Branca,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda,Não Possuia
+74174EA65E77A5B8BC65B09BCAF9999B,19-25 anos,2019,Nao informado,2023,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+747AC0E3A7F4B8A385B039573B4AC3C5,Acima de 35 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+74A14DC6BE3D469770F53DD3FB93C6C4,26-35 anos,2009,Vestibular,2014,Formado,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+74D3B2328ADADBD5C9740B050D0A333C,Menos de 19 anos,2009,Vestibular,2012,Desistencia,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+750ED96F0D56D3346CDA66D24BC0CBD5,19-25 anos,2009,Vestibular,2018,Jubilamento,Nao informado,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+754ABF02507264C05C99E9880A63BAC2,Acima de 35 anos,2010,Vestibular,2018,Jubilamento,Fortaleza-CE,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+75B40A18EDB931F3AD12CB1455BC247D,Acima de 35 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Preta,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Não Possuia
+75B8241ED29D71D3011AE167116E722C,Menos de 19 anos,2010,Vestibular,2014,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+760E8964CB1CA4375EC8EFF22E08346C,Menos de 19 anos,2018,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+7683638ECEF885821FCA785ADA4993B2,Acima de 35 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Possuia
+7686068674869A65771830AA499930EA,Menos de 19 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Cruzeiro do Sul-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+76A6C6F29439524B44A377E12E800054,Menos de 19 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Possuia
+76AB87E10AD605CDBC52F5AEF2199E8A,Menos de 19 anos,2017,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Preta,Sem Deficiencia,"Candidatos de Escola Publica Independente de Renda (Pretos, Pardos e Indigenas)",Possuia
+76D3456B2B1796C66ABFD6FE422ADB0A,19-25 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Brasileia-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Possuia
+76D38AA88F8A943A758349DDF3B5CDE9,19-25 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+771A83C3AAB78A8115BE5E2E93D2B534,Menos de 19 anos,2016,Processo Seletivo - SiSU,2023,Jubilamento,Altamira-PA,Parda,Sem Deficiencia,"Candidatos de Escola Publica com Baixa Renda (Pretos, Pardos e Indigenas)",Não Possuia
+77415B528FEAEA76B34180A6F6412E77,Acima de 35 anos,2016,Processo Seletivo - SiSU,2016,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,Geral,Não Possuia
+775A90DC133A5870654DC448E95CE41B,Acima de 35 anos,2010,Vestibular,2014,Jubilamento,Xapuri-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+7819E02EC5B498144A0EBEE3C46E93B9,Menos de 19 anos,2018,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+785A4B39CA0768EBD5BE9064105F0705,Menos de 19 anos,2008,Vestibular,2008,Desistencia,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+788117E45830FE1FF21DA0C7C7A6AFF5,Menos de 19 anos,2020,Processo Seletivo - SiSU,2023,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+78D2EF62FDA6FCC601C6669D22B8EB28,Acima de 35 anos,2021,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+78E48060C888D130931A982E21AD8B2F,19-25 anos,2021,Processo Seletivo - SiSU,2023,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Possuia
+78FB8DC1B14A82293E927B729C7A792B,Menos de 19 anos,2020,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Possuia
+78FFAAADD841E4C71322637CB77C5693,19-25 anos,2021,Processo Seletivo - SiSU,2023,Jubilamento,Xapuri-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Não Possuia
+79356467B5F0974FA28A85F243736F1D,Acima de 35 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+796E0358D2325EA224BAF084DBECA14F,19-25 anos,2011,Vestibular,2014,Jubilamento,Nao informado,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+7998EE341A2B3FFE1F5B8F11C0E78D11,19-25 anos,2017,Processo Seletivo - SiSU,2018,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,"Candidatos de Escola Publica Independente de Renda (Pretos, Pardos e Indigenas)",Não Possuia
+79E410FB9488B208773459FA9249205F,Menos de 19 anos,2009,Vestibular,2014,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+7A15F2C706072346E7638D0ED6DE09EB,Menos de 19 anos,2013,Processo Seletivo - SiSU,2020,Formado,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Vagas destinadas aos candidatos de escola publica e baixa renda,Possuia
+7A1BC993C84AA757A165FBC2984AE42F,Acima de 35 anos,2009,Vestibular,2013,Formado,Rio Branco-AC,Indigena,Sem Deficiencia,Ampla Concorrencia,Possuia
+7A66484D6D916DCF62D300D65A8F003C,Menos de 19 anos,2012,Enem,2018,Jubilamento,Rio Branco-AC,Nao Declarada,Fisica,Ampla Concorrencia,Possuia
+7AA0C0A3E9F181BC2DD0E35ECAE62DD9,19-25 anos,2011,Vestibular,2014,Jubilamento,Nao informado,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+7AA2DEFF124D9532B2FD1320635E2B71,19-25 anos,2020,Processo Seletivo - SiSU,,Sem Evasao,Niteroi-RJ,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+7B1BA3D66D351E68AC0CF45DCF429147,19-25 anos,2015,Processo Seletivo - SiSU,2023,Formado,Jatai-GO,Nao Declarada,Deficiencia Sensorial Auditiva,Candidatos Deficientes,Possuia
+7C09C2A7D351667D881C5341239F8D8F,Acima de 35 anos,2009,Vestibular,2014,Jubilamento,Fortaleza-CE,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+7CA7066DE79A392C500A95AA6331B3EA,26-35 anos,2021,Processo Seletivo - SiSU,2023,Desistencia,Fortaleza-CE,Parda,Deficiencia Mental,Candidatos com deficiencia,Possuia
+7CA7439B4C9FE8997B4653511508D567,Acima de 35 anos,2021,Processo Seletivo - SiSU,,Sem Evasao,Tarauaca-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Possuia
+7CBD2A56F3BD5796FE663F8FF3F39FEE,Menos de 19 anos,2018,Processo Seletivo - SiSU,2018,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+7D9333484136F9BEE0B36AEF0D8B079F,Menos de 19 anos,2014,Processo Seletivo - SiSU,2015,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,"Vagas destinadas aos pretos, pardos e indigenas de baixa renda",Possuia
+7DC648573025E45AD653E535FABFD1AE,19-25 anos,2008,Transferencia Externa,2012,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+7DF552440682AA175B6BA97FF4522AD8,Menos de 19 anos,2011,Vestibular,2016,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+7E14789FE83B34E8C0F2FAFF79C8975C,Menos de 19 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+7E53526FC58A32E5452294826783A54B,Menos de 19 anos,2009,Vestibular,2014,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+7E57E1310F10C1A7FEA50EB20669B057,Menos de 19 anos,2015,Processo Seletivo - SiSU,2017,Jubilamento,Porto Walter-AC,Preta,Sem Deficiencia,"Candidatos de Escola Publica Independente de Renda (Pretos, Pardos e Indigenas)",Não Possuia
+7EA8AB0391886981CCC4E603F1424A5A,Menos de 19 anos,2018,Transferencia Externa,,Sem Evasao,Tarauaca-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Possuia
+7F68B037B2BE7A687E24B9C2C3C03E9A,Menos de 19 anos,2019,Processo Seletivo - SiSU,,Sem Evasao,Feijo-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Não Possuia
+7FDFBDB466640E43E4DA51B6295E2BF2,19-25 anos,2015,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,"Candidatos de Escola Publica com Baixa Renda (Pretos, Pardos e Indigenas)",Possuia
+804589C2558377B846122344FDC54A72,Acima de 35 anos,2015,Processo Seletivo - SiSU,2015,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda,Possuia
+80C713EF32F2CB8AE3361DBD27A9C81B,19-25 anos,2017,Transferencia Externa,2023,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Possuia
+80CD9A9768E06F1D1A8335ABF22B56E6,Menos de 19 anos,2018,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Possuia
+80F697DA6DC66FF8FD7F33F79D58AB80,Menos de 19 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Cruzeiro do Sul-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Possuia
+813C26FC0C3BF64573A10EAFB3F8E5EE,Menos de 19 anos,2013,Processo Seletivo - SiSU,2016,Formado,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Vagas destinadas aos candidatos de escola publica e baixa renda,Possuia
+81E68999106D6798ECA552CBB9337751,Menos de 19 anos,2009,Vestibular,2012,Desistencia,Porto Velho-RO,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+8206A42A49E26F8419132A9C97E016F6,Menos de 19 anos,2010,Vestibular,2017,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Possuia
+8257FE03047E82B57406ED493C6E8913,19-25 anos,2020,Transferencia Externa,2022,Desistencia,Caruaru-PE,Parda,Sem Deficiencia,Ampla concorrencia 3º Periodo,Não Possuia
+82890048E6491BF26EDCB8987D19A6AE,Acima de 35 anos,2018,Transferencia Externa,2022,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+82CE994BAF8F5E47F62F12B35ADECF03,19-25 anos,2011,Vestibular,2017,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Possuia
+82DEEDBD02182DB7AEA66208A6A7E414,26-35 anos,2014,Processo Seletivo - SiSU,2018,Jubilamento,Xapuri-AC,Parda,Sem Deficiencia,"Vagas destinadas aos pretos, pardos e indigenas de baixa renda",Possuia
+832CB5843D4B85B3AFB7D9A659CF9C41,Menos de 19 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Não Possuia
+83F33F6498DF639A8476F5315E415AB2,Menos de 19 anos,2020,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Preta,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda,Não Possuia
+840B2C22EFCA496F247CAA4063CADD8C,Acima de 35 anos,2018,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Preta,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Não Possuia
+842CA578342915CCB8AE069595BA7233,Acima de 35 anos,2008,Transferencia Externa,2012,Formado,Senador Guiomard-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+8467AE9D40EAB0D2E959428E140468CE,Acima de 35 anos,2012,Enem,2022,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Possuia
+85661ED56B052A83A3F03ED7844BE0BC,Acima de 35 anos,2019,Reopcao de Curso,2022,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+85CEF7747C65F4A841426D6FDD329449,Menos de 19 anos,2015,Processo Seletivo - SiSU,2016,Desistencia,Rio Branco-AC,Nao Declarada,Outras Necessidades,Geral,Não Possuia
+85D6066AB1D290B884A7F171042DC1CA,19-25 anos,2010,Vestibular,2012,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+8607FF197189E941C0864127EEE318DF,Menos de 19 anos,2011,Vestibular,2014,Jubilamento,Nao informado,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+860FE1A72849DE8657E95C3FBD819233,19-25 anos,2011,Vestibular,2022,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+8644904D5B64C5C3111996D2D545CA9D,19-25 anos,2009,Vestibular,2012,Jubilamento,Pimenta Bueno-RO,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+864CAD4099C354B43895D810E48C20FA,19-25 anos,2018,Processo Seletivo - SiSU,2022,Jubilamento,Cruzeiro do Sul-AC,Branca,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda,Não Possuia
+868D02A57C9D48E2D224D42FDDD4DD0D,Acima de 35 anos,2020,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda,Não Possuia
+8708CC4B4FD657032EDDC86555279921,Acima de 35 anos,2011,Vestibular,2014,Jubilamento,Nao informado,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+87159DF0DCD6D3B95E9F8219091C28D2,26-35 anos,2016,Processo Seletivo - SiSU,2018,Jubilamento,Belem-PA,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda,Não Possuia
+8750CECE0F8B031D0DF80EA8D1345D01,Acima de 35 anos,2011,Vestibular,2018,Jubilamento,Nao informado,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+876A8CC9B9E7E41DC4E2A565CE31DCD4,Acima de 35 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+87876CA731B4C56B3F48110C953E0401,Menos de 19 anos,2016,Processo Seletivo - SiSU,2023,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,"Candidatos de Escola Publica com Baixa Renda (Pretos, Pardos e Indigenas)",Possuia
+881880AF84E2764037CDCEB2A8230CBB,Acima de 35 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Goiania-GO,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Não Possuia
+881E945C3B5CCF17103ECCA2B675585F,19-25 anos,2008,Transferencia Externa,2014,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+8822DC57850265F1E20F51F5D17D1E21,Menos de 19 anos,2021,Processo Seletivo - SiSU,,Sem Evasao,Guajara-Mirim-RO,Preta,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+882E283E7A4CCBD2E58772CF77FA937E,19-25 anos,2014,Processo Seletivo - SiSU,2017,Formado,Rio Branco-AC,Parda,Fisica,Vagas destinadas aos candidatos deficientes,Não Possuia
+884C4BEDDD8C98BB3B016BDFCC1BCDF8,26-35 anos,2020,Processo Seletivo - SiSU,2023,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Não Possuia
+885E930A8D8D3BCD0828730A9F9A943F,Acima de 35 anos,2020,Processo Seletivo - SiSU,2023,Jubilamento,Rio Branco-AC,Preta,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Possuia
+88BB32F17CF7838BE4145ABE4A952A08,19-25 anos,2019,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Possuia
+8B1CCCF5369D9DB9BC92A9F1A6EC825B,19-25 anos,2017,Processo Seletivo - SiSU,2017,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+8B1ECBD9589C577AD109BEA50B84D195,26-35 anos,2010,Vestibular,2014,Jubilamento,Feijo-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+8B48E30332FC417534491CE3FDA913B9,19-25 anos,2011,Vestibular,2014,Formado,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+8B4A91FC31792DE78BF05BD0E87A23DF,19-25 anos,2010,Vestibular,2014,Formado,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+8B5E7836DD068601D1D820B4147FDE37,Menos de 19 anos,2018,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda,Possuia
+8B78421D9AB29962EF6082F8233FBCEC,Acima de 35 anos,2010,Vestibular,2018,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+8B9322A8DDE2E93F4CF2A9A2035E10BC,Menos de 19 anos,2011,Vestibular,2016,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+8BB30D678AE46C02570C83038EF64980,Menos de 19 anos,2013,Processo Seletivo - SiSU,2015,Desistencia,Rio Branco-AC,Nao Declarada,Sem Deficiencia,"Vagas destinadas aos pretos, pardos e indigenas de baixa renda",Não Possuia
+8BDA4B25147CE41DF8B0637939F50901,19-25 anos,2019,Processo Seletivo - SiSU,2023,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda,Possuia
+8C18D2A16E425E3B6DD98D6831B129FE,Menos de 19 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+8C57C059B482AAB74CA9F368DC9DA524,19-25 anos,2019,Transferencia Externa,2022,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+8C76A917F300E4705DDAE8EA128662D6,19-25 anos,2021,Transferencia Ex-Oficio,,Sem Evasao,Uruguaiana-RS,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+8C8EE26D59B77A94DC6747A41E7C3AF0,Acima de 35 anos,2010,Vestibular,2014,Jubilamento,Ariquemes-RO,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+8C9098C26373ECC66094C7A9BFEB0AF8,Acima de 35 anos,2018,Processo Seletivo - SiSU,2022,Desistencia,Pindamonhangaba-SP,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+8CE2EB65DE03109E27FC0D7973AB2797,26-35 anos,2018,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+8D34DD2CCE45EF1B962A93037AB1698C,Menos de 19 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+8DC56B3DD5380FCD7402CE0FBC75CB1E,Acima de 35 anos,2015,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,"Candidatos de Escola Publica Independente de Renda (Pretos, Pardos e Indigenas)",Não Possuia
+8E88FE29CB3A403B1A7E55B0BB87650D,19-25 anos,2021,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+8EE4A89E4B4BBD9B4281E6C9A91CD032,Menos de 19 anos,2021,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+8EEEDC66EA8FBCDF2E74294037C2F389,Menos de 19 anos,2011,Vestibular,2014,Jubilamento,Cruzeiro do Sul-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+8F1132DB5EDD938B22F6167B7F67D82B,19-25 anos,2012,Enem,2016,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+8F5885C76D3C40CE72CE7DA461074D10,19-25 anos,2022,Processo Seletivo - SiSU,2023,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Não Possuia
+8FC133B1AE4B3A3BC830BF46021EB7E9,19-25 anos,2014,Processo Seletivo - SiSU,2017,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,"Vagas destinadas aos pretos, pardos e indigenas de baixa renda",Possuia
+8FDC63B3D342CB84A8452DBD3701B098,19-25 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+8FFDCADE0D19115E2B5BEDB1D94DC878,Menos de 19 anos,2014,Processo Seletivo - SiSU,2016,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,"Vagas destinadas aos pretos, pardos e indigenas independente de renda",Possuia
+90058A744530B3EF0B89A4C02AEE626C,19-25 anos,2010,Vestibular,2014,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+9012A1C75D959D58EDD3A3FC1C0F5B75,Acima de 35 anos,2018,Processo Seletivo - SiSU,,Sem Evasao,Cruzeiro do Sul-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+90D1A7E08E92EBAA9D41029C13B3705E,Menos de 19 anos,2018,Processo Seletivo - SiSU,2023,Formado,Rio Branco-AC,Amarela,Sem Deficiencia,Ampla Concorrencia,Possuia
+915DEC2BE7F609C9B0944089D14361DE,Menos de 19 anos,2018,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Não Possuia
+9189E075289F180149FF1107D6D48F78,26-35 anos,2013,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Nao Declarada,Sem Deficiencia,"Vagas destinadas aos pretos, pardos e indigenas de baixa renda",Possuia
+91A8F8847EE097F0BE9C70C3255AFAD8,Menos de 19 anos,2017,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,"Candidatos de Escola Publica com Baixa Renda (Pretos, Pardos e Indigenas)",Possuia
+9232965E399095E0EF458A3325BA5382,Menos de 19 anos,2008,Vestibular,2012,Formado,Cruzeiro do Sul-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+924B3E384FF2F09A4722E16511F82CAA,Menos de 19 anos,2010,Vestibular,2012,Desistencia,Cruzeiro do Sul-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+92E3A17B6FA969D57E52D7B21B22D364,Acima de 35 anos,2021,Processo Seletivo - SiSU,,Sem Evasao,Sena Madureira-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Possuia
+92F8F0E78D438A0D33F78B0D08B9EE8C,Menos de 19 anos,2020,Processo Seletivo - SiSU,2023,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+932B1F4BC0958BFD60AFCE01E9F3BEC0,Menos de 19 anos,2018,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Preta,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Não Possuia
+93EF0EE81EC1DAD09A4A6708C6C9443B,Acima de 35 anos,2019,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Não Possuia
+942C6C756B40B97C966E17BDEBEF1F56,Acima de 35 anos,2016,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Geral,Não Possuia
+943167A07CA1D20552E956DC6B1DDE56,Acima de 35 anos,2019,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+94AE76ABFD4A0A692A11C54041F5C0B1,Menos de 19 anos,2015,Processo Seletivo - SiSU,2018,Jubilamento,Tatui-SP,Branca,Sem Deficiencia,Geral,Não Possuia
+94AFDFCB8CC1DF4EECC676FBA0C3C6B8,19-25 anos,2009,Vestibular,2014,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+94B2C2BC2644AA53F124B7904473C3F7,19-25 anos,2020,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Possuia
+94C090D484F80E12F1ABB25C0320DED2,Acima de 35 anos,2022,Processo Seletivo - SiSU,2023,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Não Possuia
+94C5A9B3ADC9C654138DC89CF909B127,Acima de 35 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Preta,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Não Possuia
+957DDEA273C4065BA71829725DB9F50B,Menos de 19 anos,2011,Vestibular,2018,Jubilamento,Taboao da Serra-SP,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+95814964B0C42CE64D51E38D917D7FD3,26-35 anos,2014,Processo Seletivo - SiSU,2016,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,"Vagas destinadas aos pretos, pardos e indigenas independente de renda",Não Possuia
+95A2CA0579ACBB4ECF7D32731BD6FF13,Menos de 19 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Feijo-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Possuia
+95EFE103A34641050E01F45A9A265A8C,Menos de 19 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Sena Madureira-AC,Branca,Sem Deficiencia,Candidatos de Escola Publica com Baixa Re,Possuia
+960ADE68AB05B7E113C6C410BA34C4EE,26-35 anos,2010,Vestibular,2017,Jubilamento,Cruzeiro do Sul-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+9611804B80CDBABCC1E0774CEC62ECD5,19-25 anos,2009,Transferencia Externa,2014,Jubilamento,Manaus-AM,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+9719ED1080F69F16C8DA43CE3166B7FA,Acima de 35 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+976D9D33AE5BF8B3A0B14179ED4AF017,Menos de 19 anos,2015,Processo Seletivo - SiSU,2020,Formado,Rio Branco-AC,Parda,Sem Deficiencia,"Candidatos de Escola Publica com Baixa Renda (Pretos, Pardos e Indigenas)",Não Possuia
+97F1F1A1757711C30E2C40E41B9F262D,Menos de 19 anos,2016,Processo Seletivo - SiSU,2019,Formado,Porto Velho-RO,Parda,Sem Deficiencia,"Candidatos de Escola Publica com Baixa Renda (Pretos, Pardos e Indigenas)",Possuia
+9874E7748B87210DAB60A15F1757D02F,19-25 anos,2015,Processo Seletivo - SiSU,2018,Jubilamento,Rio Branco-AC,Preta,Fisica,Candidatos Deficientes,Não Possuia
+98795443CDBF0375DD946728E2F4E51A,Menos de 19 anos,2009,Vestibular,2013,Formado,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+98885CB05F04F6D492CBB85504DB9787,Menos de 19 anos,2017,Transferencia Externa,2022,Formado,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Possuia
+98ED037C165C8FF9F4AFEFBE86F08C84,19-25 anos,2011,Vestibular,2014,Jubilamento,Santa Maria da Vitoria-BA,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+98F082043F5FE5C976C26BFEFFED282E,26-35 anos,2019,Processo Seletivo - SiSU,2023,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Não Possuia
+991DD9FAEA5CBC36496C78470ABEC386,Menos de 19 anos,2014,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Preta,Sem Deficiencia,"Vagas destinadas aos pretos, pardos e indigenas independente de renda",Possuia
+9952CB25B58C5F4832396ABF2BCFD66D,Menos de 19 anos,2010,Vestibular,2014,Formado,Tarauaca-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+99AF359A2A03545638A15B1BF2AE4096,Acima de 35 anos,2022,Portador de Diploma Superior,,Sem Evasao,Brasileia-AC,Preta,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+99FB2C00A7924D2152227C0D60112947,19-25 anos,2016,Processo Seletivo - SiSU,2018,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,"Candidatos de Escola Publica com Baixa Renda (Pretos, Pardos e Indigenas)",Não Possuia
+9A32593B6B1FAEA93BDE76C43D1A8692,19-25 anos,2009,Transferencia Externa,2014,Jubilamento,Xapuri-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+9A6C4C567B029936BFB4FB0493E7E728,Menos de 19 anos,2016,Processo Seletivo - SiSU,2017,Transferido,Rio Branco-AC,Branca,Sem Deficiencia,Geral,Não Possuia
+9AC2FC991D780C349FE1E5863E731108,Menos de 19 anos,2013,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Vagas destinadas aos candidatos de escola publica e baixa renda,Não Possuia
+9AF9D4F2B4B7B0F08FBEB001F87E77A5,Menos de 19 anos,2019,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+9B732CC38E40261D900B8008BF9C596E,Menos de 19 anos,2011,Vestibular,2018,Jubilamento,Nao informado,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+9B78E84AF6E92738802D258E0967ED8D,Acima de 35 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Não Possuia
+9BD96E176BBEDF4D017F4B438BD613E3,19-25 anos,2011,Vestibular,2017,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+9C70CB2F32394F12A8527CCB82DA9942,Menos de 19 anos,2016,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Intelectual/mental,Candidatos Deficientes,Não Possuia
+9CC03CE5C1EA026CA10E9F83572A0200,Menos de 19 anos,2013,Processo Seletivo - SiSU,2013,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,"Vagas destinadas aos pretos, pardos e indigenas de baixa renda",Não Possuia
+9CC1C015C32F74BCBD1C315C445B89EF,19-25 anos,2011,Vestibular,2018,Jubilamento,Nao informado,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+9DF811BC0EC3CD1B8CE8E8F1BAB30BE4,Menos de 19 anos,2012,Enem,2019,Formado,Fortaleza-CE,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Possuia
+9E039CDE871EE92385CAC87CA0468AF2,19-25 anos,2016,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Geral,Não Possuia
+9E04709686781F100B7C46C697891C17,Menos de 19 anos,2017,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Branca,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda,Não Possuia
+9E67462422B5F48A709503A2A335C3C0,Menos de 19 anos,2016,Processo Seletivo - SiSU,2016,Desistencia,Rio Branco-AC,Branca,Sem Deficiencia,Geral,Não Possuia
+9E69FD6D1C5D1CEF75FFBE159C1F322E,Menos de 19 anos,2008,Vestibular,2014,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+9EB1A76B0030A39886609C0F99634CBC,Acima de 35 anos,2009,Vestibular,2013,Formado,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+9F2101DD2222C9E8A3EC8D116DA3B40A,19-25 anos,2009,Vestibular,2012,Formado,Sena Madureira-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+9F892DEDA85C6965329C924075E9322F,Menos de 19 anos,2019,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+9F96F0C23A6A55DBD2E9427729E24266,Acima de 35 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Carauari-AM,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+A000BD6DE227FA3950BD4FAFB15FDD94,19-25 anos,2021,Processo Seletivo - SiSU,2023,Jubilamento,Manaus-AM,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+A0AE148A258A9D1DB932DF49B2271B21,Acima de 35 anos,2020,Processo Seletivo - SiSU,2023,Formado,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Não Possuia
+A0CB600216A15461DD4F2BFD556D1E90,Menos de 19 anos,2018,Processo Seletivo - SiSU,2019,Desistencia,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+A11317A2C0AF5FCD81607E85AD932BCA,Menos de 19 anos,2018,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda,Possuia
+A11EE83E7026B0C537C7CFFF4D0135B3,Menos de 19 anos,2011,Vestibular,2018,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+A128C87F5F533B784A2C3F5064B3CDEA,26-35 anos,2017,Processo Seletivo - SiSU,,Sem Evasao,Sena Madureira-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+A1395DF0A1ABC218EB63B3ADDBDD1693,Menos de 19 anos,2009,Vestibular,2018,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+A2729B7746A7F069A1D87A2141CF6AEE,Menos de 19 anos,2011,Vestibular,2016,Jubilamento,Nao informado,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+A305A5B0E679A20D1BE6C4A6CE79BD50,Menos de 19 anos,2020,Processo Seletivo - SiSU,2023,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Não Possuia
+A328B64FB251B3891B369070736A2B21,19-25 anos,2019,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Não Possuia
+A3C5E98CBFA4EE6526DD52B58FEFF672,26-35 anos,2009,Vestibular,2014,Jubilamento,Nao informado,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+A4341FCEF6BE79DDFCE70D3FDE3B983A,Acima de 35 anos,2017,Processo Seletivo - SiSU,2020,Formado,Rio Branco-AC,Amarela,Sem Deficiencia,"Candidatos de Escola Publica com Baixa Renda (Pretos, Pardos e Indigenas)",Não Possuia
+A45045ACDFFEEC7B92EA019675DA48FC,Menos de 19 anos,2013,Processo Seletivo - SiSU,2014,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Vagas destinadas aos candidatos de escola publica independente de renda.,Não Possuia
+A4AD4C62B6A12892242BD6786D83F9AA,Menos de 19 anos,2020,Processo Seletivo - SiSU,,Sem Evasao,Sena Madureira-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Possuia
+A4C00F058D5BC701F2EF2DC3D8CFE76A,Acima de 35 anos,2018,Processo Seletivo - SiSU,2023,Jubilamento,Cruzeiro do Sul-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda,Possuia
+A528CDB26F26B20FECD0D76902990F0B,26-35 anos,2016,Processo Seletivo - SiSU,2018,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,"Candidatos de Escola Publica com Baixa Renda (Pretos, Pardos e Indigenas)",Não Possuia
+A5A922EA078F7E063B2FDE0FC5CD3E08,19-25 anos,2011,Vestibular,2017,Jubilamento,Nao informado,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+A652E914C736DFAF8A6667AE6936F0D6,19-25 anos,2008,Vestibular,2012,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+A7974B664364F1655DE4AE0484A7BCAF,19-25 anos,2009,Vestibular,2013,Desistencia,Nao informado,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+A7BA6DDE28C61D9CEC9909BDE1D7DCA2,Acima de 35 anos,2014,Processo Seletivo - SiSU,2018,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,"Vagas destinadas aos pretos, pardos e indigenas de baixa renda",Possuia
+A7CD33D1194CE48A10C5B2DCE99A3CFC,Acima de 35 anos,2008,Vestibular,2016,Formado,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+A8681F254ADD165D857CCB664B802BED,Menos de 19 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Não Possuia
+A86C98D2F02850192F0B3D8F866CF157,19-25 anos,2019,Processo Seletivo - SiSU,2022,Desistencia,Sao Pedro da Aldeia-RJ,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda,Possuia
+A89B9B817D1C710E6EF5000032E1C514,Acima de 35 anos,2012,Enem,2020,Desistencia,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+A9AB0735CD73DACD1156E578B6DB26F2,Acima de 35 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Não Possuia
+A9E388897A108C6851AA339173785819,Menos de 19 anos,2015,Processo Seletivo - SiSU,2023,Formado,Rio Branco-AC,Parda,Sem Deficiencia,"Candidatos de Escola Publica Independente de Renda (Pretos, Pardos e Indigenas)",Possuia
+AA2DF372C0423574D8E6658675E0BB89,Menos de 19 anos,2021,Processo Seletivo - SiSU,2021,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+AA59DFE9CEA81F87553C5D9F1046A84F,19-25 anos,2012,Enem,2014,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+AB22C8C51559E133736CB1412BFD48CD,Menos de 19 anos,2021,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+AB34D8D7F2771066C8724C8C4D440F60,Acima de 35 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Preta,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+AB3C3351517E17A8B2561EE2227DAE11,Menos de 19 anos,2014,Processo Seletivo - SiSU,2016,Desistencia,Rio Branco-AC,Nao Declarada,Sem Deficiencia,"Vagas destinadas aos pretos, pardos e indigenas de baixa renda",Possuia
+ABA0914EA8FDD89E9755D3A90AB757FF,19-25 anos,2010,Vestibular,2018,Formado,Sao Paulo-SP,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+ABDD2931B521CCF6F0F80F7D6A540928,Menos de 19 anos,2012,Enem,2014,Jubilamento,Tarauaca-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+ABDE962C399ACA75FC298F008D3BFBA2,19-25 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Possuia
+AC20EF1531564622D11E2C106A675264,Menos de 19 anos,2021,Processo Seletivo - SiSU,,Sem Evasao,Vilhena-RO,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+ACA32B8B77023B56DE7D479ADD89E4F5,Menos de 19 anos,2011,Vestibular,2018,Jubilamento,Fortaleza-CE,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+AD1288236B3A6B1D28115A1F92AB8BB6,Acima de 35 anos,2008,Vestibular,2012,Reopcao de Curso,Nao informado,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+AD1A7FEFF3C3A3C8A9F1368C1370B7F6,Menos de 19 anos,2019,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+AD2F559C476D458F870462ABE121CA08,Menos de 19 anos,2015,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,"Candidatos de Escola Publica Independente de Renda (Pretos, Pardos e Indigenas)",Possuia
+AD59AE2C6077196B68FF0C94A09FED73,Menos de 19 anos,2011,Vestibular,2013,Desistencia,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+AD6BF2081B803E4150CE1179A6CFEC1F,Acima de 35 anos,2019,Transferencia Externa,2022,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+ADD26FFAC48A0FCD634781F1A041E4AC,19-25 anos,2014,Processo Seletivo - SiSU,2015,Desistencia,Rio Branco-AC,Branca,Sem Deficiencia,Vagas destinadas aos candidatos de escola publica e baixa renda,Possuia
+ADED6EE2A29750522670AAD156B654BD,19-25 anos,2008,Vestibular,2012,Formado,Itanhem-BA,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Possuia
+AE0E61A84D697474E48F631CCB0CFC97,19-25 anos,2019,Transferencia Externa,,Sem Evasao,Cruzeiro do Sul-AC,Parda,Fisica,Ampla Concorrencia,Possuia
+AE0ECBE3E82ED7EB0C1066059D9513DF,19-25 anos,2016,Transferencia Externa,2022,Jubilamento,Jordao-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Possuia
+AE6F3AE4807E6E1FA3C3B9B8418B6783,Menos de 19 anos,2019,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Branca,Outras Necessidades,Ampla Concorrencia,Não Possuia
+AE91B05CF9C865B54CF57ADF35831853,Menos de 19 anos,2013,Processo Seletivo - SiSU,2016,Desistencia,Rio Branco-AC,Nao Declarada,Sem Deficiencia,"Vagas destinadas aos pretos, pardos e indigenas independente de renda",Não Possuia
+AF363449E6605EE02D7D3D77A30DA634,26-35 anos,2019,Processo Seletivo - SiSU,,Sem Evasao,Marechal Thaumaturgo-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Não Possuia
+AF93C9DB0E2BFA76554DFBDDE8426E81,Menos de 19 anos,2014,Mandado de Seguranca,2014,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,"Vagas destinadas aos pretos, pardos e indigenas independente de renda",Possuia
+AFAC0BDCB0139E69DE4CE27F1C6D352B,26-35 anos,2009,Vestibular,2013,Desistencia,Labrea-AM,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+AFE1500653EC682B3CE7E0B9F39BED89,19-25 anos,2016,Processo Seletivo - SiSU,2022,Formado,Recife-PE,Branca,Sem Deficiencia,Geral,Não Possuia
+B04A6BD02D0B88B5785D4C5B560824A0,Menos de 19 anos,2019,Processo Seletivo - SiSU,2023,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+B068A05E6150657FAE301CEFCBC9BEC0,19-25 anos,2014,Processo Seletivo - SiSU,2018,Jubilamento,Rio Branco-AC,Preta,Sem Deficiencia,"Vagas destinadas aos pretos, pardos e indigenas independente de renda",Possuia
+B1282CADAD27F496D6680A5128A2814E,19-25 anos,2013,Processo Seletivo - SiSU,2018,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,"Vagas destinadas aos pretos, pardos e indigenas independente de renda",Possuia
+B142673328A0419DB9725ADB9DB18123,26-35 anos,2010,Vestibular,2014,Jubilamento,Cruzeiro do Sul-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Possuia
+B15EFE6A95CCB9124597A04C597376F5,Acima de 35 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+B164250F03B08804A9697111BA542F21,Acima de 35 anos,2009,Vestibular,2014,Formado,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+B1788E23531B04081AD1603B38644DAC,Acima de 35 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Não Possuia
+B289013B12E8C285E4536C40B5018749,19-25 anos,2020,Processo Seletivo - SiSU,2021,Desistencia,Cruzeiro do Sul-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+B2E0C792AD68362D6DD72F0DC9A7BE61,19-25 anos,2016,Processo Seletivo - SiSU,2018,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,"Candidatos de Escola Publica Independente de Renda (Pretos, Pardos e Indigenas)",Não Possuia
+B31F0C758BB498B5D56B5FEA80F313A7,19-25 anos,2008,Vestibular,2014,Jubilamento,Nao informado,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+B32CF5537B682F533BAD63896C1B7F7F,19-25 anos,2015,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,"Candidatos de Escola Publica com Baixa Renda (Pretos, Pardos e Indigenas)",Não Possuia
+B399BD87FBB9E77BE540A03191F109E9,19-25 anos,2018,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+B3F106039B4E0C2435C14BB4074A5D95,26-35 anos,2021,Processo Seletivo - SiSU,2021,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+B468FA33C4D1D4F5660C0C77BE421333,Menos de 19 anos,2020,Processo Seletivo - SiSU,2023,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+B4C3ABD5E532DA75629DDE3FA7E0B7E2,Menos de 19 anos,2016,Processo Seletivo - SiSU,2022,Formado,Rio Branco-AC,Preta,Sem Deficiencia,"Candidatos de Escola Publica com Baixa Renda (Pretos, Pardos e Indigenas)",Possuia
+B56B1C311B63F21DB9EEE26031AA2B4D,Menos de 19 anos,2014,Processo Seletivo - SiSU,2018,Formado,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Possuia
+B603B90DE5814128C67DA52B3DC672C4,Menos de 19 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+B634A18D05447CDCCF5F9012450904F2,Menos de 19 anos,2012,Enem,2018,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Possuia
+B689E747D1360E42E9DBB90FA68D9E83,Acima de 35 anos,2010,Vestibular,2016,Formado,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+B6A243747CE4D20EAF2CF025E7176662,19-25 anos,2013,Processo Seletivo - SiSU,2015,Desistencia,Rio Branco-AC,Nao Declarada,Deficiencia Sensorial Visual,Vagas destinados aos candidatos deficientes,Não Possuia
+B75F4CD91723BAA6327B03DDF0B8EBF6,Menos de 19 anos,2013,Processo Seletivo - SiSU,2016,Formado,Ipixuna-AM,Nao Declarada,Sem Deficiencia,Vagas destinadas aos candidatos de escola publica e baixa renda,Possuia
+B79B48DD646EF0AF02646B332A92D855,19-25 anos,2008,Vestibular,2015,Formado,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+B7E97864589BD572D706F436FA2EB387,Menos de 19 anos,2021,Processo Seletivo - SiSU,,Sem Evasao,Cruzeiro do Sul-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+B83B4B4FB7DEE46FD2E688F76E3F3928,Menos de 19 anos,2008,Vestibular,2016,Formado,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+B86A2C337FF58E0BE115575ABE91BA11,Acima de 35 anos,2019,Transferencia Externa,2022,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+B8A54E345FA5FA48D9F72B7CD514240D,Menos de 19 anos,2017,Processo Seletivo - SiSU,2017,Desistencia,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+B8E4DA6CB821B8FED222061DA1CC0565,19-25 anos,2021,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Não Possuia
+B95720EE4419A4F70EF06157C549DBCB,Menos de 19 anos,2012,Enem,2014,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Possuia
+B9D5BC78F84E070F6C88F1AB4B967C54,19-25 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+BA1D4B5BBCB4556B5AFAB63E3F2B3E6D,Acima de 35 anos,2016,Processo Seletivo - SiSU,2016,Desistencia,Natal-RN,Branca,Sem Deficiencia,Geral,Não Possuia
+BA44B9ABB1A0331C5D134BAFB71F993F,Acima de 35 anos,2020,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+BA655F12A66201F445F6816A87FFE480,19-25 anos,2012,Enem,2014,Desistencia,Tarauaca-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Possuia
+BA939AF3DCADD92542ED5D4A0ADE4DCA,19-25 anos,2020,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Preta,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Possuia
+BA979247885FFF1BF52C5788244B492F,Menos de 19 anos,2010,Vestibular,2018,Formado,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+BAD815642779B6E483AE2E3ACE29E419,Menos de 19 anos,2009,Vestibular,2012,Formado,Cruzeiro do Sul-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+BBCC330FC165B9EA1609E8C4D0B34AC6,Menos de 19 anos,2020,Processo Seletivo - SiSU,,Sem Evasao,Tarauaca-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda,Possuia
+BBFAC18D2EDB930651D866F44FCFCB62,19-25 anos,2008,Vestibular,2012,Formado,Porto Velho-RO,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+BC8D6ABA5ADBF273ABC6C98A41BEE213,Acima de 35 anos,2015,Processo Seletivo - SiSU,2015,Desistencia,Cruzeiro do Sul-AC,Nao Declarada,Sem Deficiencia,Geral,Não Possuia
+BCAB42682695E6C6E31313CCB0A5359A,Acima de 35 anos,2012,Enem,2022,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+BCD85837D120277F190BC74C566FFD7A,26-35 anos,2009,Vestibular,2010,Desistencia,Tarauaca-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+BCF7F9300E559E433E22851B8251A3E5,Menos de 19 anos,2019,Processo Seletivo - SiSU,2023,Desistencia,Brasileia-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda,Não Possuia
+BD0FEB7098B8BF044D4F6EECE41E349A,Acima de 35 anos,2011,Vestibular,2014,Desistencia,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+BD6C07A61581FD939A71F0D2C99DD8A8,Acima de 35 anos,2019,Processo Seletivo - SiSU,,Sem Evasao,Porto Velho-RO,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Possuia
+BDFFC7973C9F8F88AB4EFFB397C59F92,19-25 anos,2008,Vestibular,2013,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Possuia
+BE33900E767401E603B355979D2F4270,Acima de 35 anos,2015,Processo Seletivo - SiSU,2018,Jubilamento,Recife-PE,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda,Não Possuia
+BE4188C0D0D914D4F54684B7B79FC726,Acima de 35 anos,2009,Vestibular,2012,Jubilamento,Acrelandia-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+BE59BF412822389E0517835B2054B58A,Menos de 19 anos,2018,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Não Possuia
+BEA6F48261D29B0DBA555367E277F670,Menos de 19 anos,2017,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Possuia
+BEDDF554EB637CBE8C079B879C79C29B,19-25 anos,2008,Transferencia Externa,2014,Jubilamento,Humaita-AM,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+BF11FDCBF726B9D3168DE9C8FD612995,Acima de 35 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Possuia
+C0A1C2F30F0C2E32A7B8C9E23B68D730,Acima de 35 anos,2020,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+C0DA43734B3BA823109BB5A29AE4CEC9,Menos de 19 anos,2013,Processo Seletivo - SiSU,2018,Formado,Rio Branco-AC,Nao Declarada,Sem Deficiencia,"Vagas destinadas aos pretos, pardos e indigenas de baixa renda",Possuia
+C0FB139FD646BD2898F080512CB6C515,Menos de 19 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+C10059C0AC08E46E083E38750387F953,26-35 anos,2009,Vestibular,2014,Formado,Cruzeiro do Sul-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+C11A6C8821CDB24676FF61D9B59C10A0,Menos de 19 anos,2013,Processo Seletivo - SiSU,2016,Formado,Rio Branco-AC,Nao Declarada,Sem Deficiencia,"Vagas destinadas aos pretos, pardos e indigenas independente de renda",Possuia
+C152935F4ACBC8A5C139994F04CB9A47,Acima de 35 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Preta,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Possuia
+C19DC3CF9B0CED13099CC512D5CCAEC4,Acima de 35 anos,2010,Vestibular,2014,Formado,Sena Madureira-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+C1A4BF4288EEBB76BA3A3FC30302747A,Acima de 35 anos,2022,Transferencia Externa,2023,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+C1B065665FCA248C21D290530AFB9F23,Acima de 35 anos,2021,Processo Seletivo - SiSU,,Sem Evasao,Tarauaca-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Possuia
+C269D5F892376E885E18B28AAB7B96E4,Menos de 19 anos,2015,Processo Seletivo - SiSU,2020,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,Geral,Não Possuia
+C2A7EF718BE41C2DF3CDF78801FF1490,Acima de 35 anos,2019,Processo Seletivo - SiSU,2022,Jubilamento,Sena Madureira-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+C2ED5DB7277B1E1F3C0CA5897A3221A6,Acima de 35 anos,2021,Processo Seletivo - SiSU,,Sem Evasao,Guajara-Mirim-RO,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+C3D54B1A928304D7DFD75C1C8F5ACE33,19-25 anos,2015,Processo Seletivo - SiSU,2017,Jubilamento,Boca do Acre-AM,Parda,Sem Deficiencia,"Candidatos de Escola Publica com Baixa Renda (Pretos, Pardos e Indigenas)",Possuia
+C4582FC6355C0038CD32F132099FA3CE,19-25 anos,2022,Processo Seletivo - SiSU,2023,Jubilamento,Rio Branco-AC,Parda,Deficiencia Mental,Deficiente,Não Possuia
+C45BEC92E6D3BA17476F218F068B081D,19-25 anos,2010,Vestibular,2014,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+C4A5846EA90782929BF365EEEC1EAA6D,Menos de 19 anos,2012,Enem,2022,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Possuia
+C556184B3FE2087834850B68FA435CEE,Menos de 19 anos,2017,Processo Seletivo - SiSU,2021,Formado,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+C6852F035CD6C4C21C3FC2EF8496F759,Menos de 19 anos,2010,Vestibular,2013,Desistencia,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+C68E180DFD52AE72565D7B8B8C487A2C,Menos de 19 anos,2019,Processo Seletivo - SiSU,2019,Desistencia,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+C6A4E5EE4096DE6D60F7B9EF20DC6412,Acima de 35 anos,2020,Transferencia Externa,,Sem Evasao,Tarauaca-AC,Parda,Sem Deficiencia,Ampla concorrencia 3º Periodo,Não Possuia
+C6DC59E0E8300A4B3B3B3FF329FB1868,Acima de 35 anos,2013,Processo Seletivo - SiSU,2016,Formado,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Vagas destinadas aos candidatos de escola publica e baixa renda,Possuia
+C712CAFA19F7F3DFBD8A72ABEAC78EC8,26-35 anos,2012,Enem,2014,Jubilamento,Guajara-Mirim-RO,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+C71BCE52CCB738139DABB8D50D1E1DE7,Menos de 19 anos,2019,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+C7204958AB2A72430F7C9C8BBEA79BE0,19-25 anos,2014,Processo Seletivo - SiSU,2017,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+C7499D9BD5B50EDDA0C648E455BC5BC1,Menos de 19 anos,2008,Vestibular,2012,Formado,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+C8959719DE6547F1A760637BD9D80652,Acima de 35 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Feijo-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Não Possuia
+C94A9676B3C1132168F8DD27BDE656ED,Acima de 35 anos,2016,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,"Candidatos de Escola Publica com Baixa Renda (Pretos, Pardos e Indigenas)",Possuia
+C9D83F1C395E67E3945F46B2E550B185,19-25 anos,2015,Processo Seletivo - SiSU,2018,Desistencia,Rio Branco-AC,Branca,Sem Deficiencia,Geral,Não Possuia
+CAEA84E7E50EA556A7CD84EE1D0963A8,19-25 anos,2016,Processo Seletivo - SiSU,2018,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,"Candidatos de Escola Publica Independente de Renda (Pretos, Pardos e Indigenas)",Não Possuia
+CB9E6B4A86C12AB564C083D97AAEEC75,Menos de 19 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+CBB01BC75A1AD399DD33D78AA985A133,19-25 anos,2020,Processo Seletivo - SiSU,2022,Jubilamento,Sena Madureira-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Não Possuia
+CBFFD1775ACC4270E17FF2D025A8E9BB,Menos de 19 anos,2012,Enem,2022,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Possuia
+CC54B5B760AE76D20F584F9D5D422BE1,Menos de 19 anos,2021,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+CC882A3A954D8338606F55DB837E5D4A,19-25 anos,2019,Transferencia Externa,2022,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+CCE2389B63856704626627037E94F89A,19-25 anos,2020,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Possuia
+CDDA899274E41CDABF8CFDF5A075066E,Acima de 35 anos,2020,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda,Não Possuia
+CE0F8C54D0364E112B25E06DB7C59B46,Acima de 35 anos,2013,Mobilidade Academica,2014,Desligamento do Programa,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+CF14C5C1AF0C784E0053724C82CB7276,Acima de 35 anos,2010,Vestibular,2015,Formado,Crato-CE,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+CF1BDB0BB9CE90FEBC23C2605AB21B82,Acima de 35 anos,2017,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,"Candidatos de Escola Publica Independente de Renda (Pretos, Pardos e Indigenas)",Possuia
+CF76C4CD2C8F67FEA31B8C15D16CA3BC,19-25 anos,2013,Processo Seletivo - SiSU,2022,Formado,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Vagas destinadas aos candidatos de escola publica e baixa renda,Possuia
+D0761D981BCE5C8706808BB62E20F3B9,Acima de 35 anos,2009,Transferencia Externa,2014,Formado,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+D080703465ADD42E5FC8A7A05DDC855F,19-25 anos,2019,Transferencia Externa,2022,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+D0A0890B4ED35D097396473C7C84DA92,Menos de 19 anos,2012,Enem,2018,Transferencia Interna,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+D0B416A4CCAC7CA256E9E0B8D137EC0B,Acima de 35 anos,2018,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Não Possuia
+D127197413A482F061A58E301C09F8D7,Menos de 19 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Não Possuia
+D1A84638A6A9962D29AA2A87CFA69ECF,Menos de 19 anos,2021,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Não Possuia
+D21F9FC127B9849FDDFAF59354916108,26-35 anos,2016,Reopcao de Curso,2023,Desistencia,Rio Branco-MT,Parda,Sem Deficiencia,Ampla Concorrencia,Possuia
+D26F0649CC51B9C6045338661C2C229C,Menos de 19 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Não Possuia
+D29A8D2929A392319E84DCC21046CA9D,19-25 anos,2017,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+D3071934791781A37E2D0A3E5D1A225B,Acima de 35 anos,2015,Processo Seletivo - SiSU,2015,Desistencia,Rio Branco-AC,Branca,Sem Deficiencia,Geral,Não Possuia
+D30DC48A64895A99AD49325FA6127943,Acima de 35 anos,2021,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+D40176E2795B1A99DC59620AC92A54C3,26-35 anos,2009,Vestibular,2016,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+D4F0F0806B7338733B81D7745499DD4B,Acima de 35 anos,2013,Processo Seletivo - SiSU,2023,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,"Vagas destinadas aos pretos, pardos e indigenas de baixa renda",Possuia
+D52A77A7E1CFE7D483B6539171B03E64,Menos de 19 anos,2009,Vestibular,2014,Jubilamento,Senador Guiomard-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+D52D7AEAF42820BE2CC18DD7915E3A2B,19-25 anos,2011,Vestibular,2018,Jubilamento,Manoel Urbano-AC,Branca,Fisica,Ampla Concorrencia,Possuia
+D681CA4DFB1202213B654FD4288617F2,Menos de 19 anos,2018,Processo Seletivo - SiSU,2022,Formado,Cruzeiro do Sul-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Possuia
+D6B940B9220D02A4FE5072A08DD2F490,Menos de 19 anos,2017,Processo Seletivo - SiSU,2022,Formado,Nova Guarita-MT,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+D74DC3F2679EEE2FA69DDB9597B61258,Menos de 19 anos,2015,Processo Seletivo - SiSU,2017,Formado,Rio Branco-AC,Parda,Sem Deficiencia,Geral,Possuia
+D7686A221F4E121BA0465EB70104EFB7,Menos de 19 anos,2016,Processo Seletivo - SiSU,2020,Formado,Rio Branco-AC,Branca,Sem Deficiencia,Geral,Possuia
+D7852CD2408D9D3205DC75B59A6CE22E,Menos de 19 anos,2008,Vestibular,2018,Jubilamento,Nao informado,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+D78D4378BE4E748E65D56F51268B0B34,Acima de 35 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Não Possuia
+D7D4D711E8F9AED9E81023F75B83DF52,19-25 anos,2022,Reopcao de Curso,2023,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+D80686E7E897BF4D346D5F41AE337E35,Acima de 35 anos,2010,Vestibular,2014,Jubilamento,Sena Madureira-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+D869C99656EC60FC9DE27338A87B2506,19-25 anos,2008,Vestibular,2014,Jubilamento,Nao informado,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+D89B833158F0D9A73FD33BB243FE5786,Acima de 35 anos,2023,Processo Seletivo - SiSU,2023,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Possuia
+D8A0633C8052AD4E56FA5838B5B45136,19-25 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Porto Velho-RO,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Não Possuia
+D8A3B2DDE3181C8257E2E45EFBD1E8AE,26-35 anos,2008,Vestibular,2014,Jubilamento,Xapuri-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+D8BC5C8DA5D7B391E11AB6E14B1DF1E5,19-25 anos,2011,Vestibular,2014,Jubilamento,Nao informado,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+D8CDA2F35A02CA459421DED6F9A5E868,19-25 anos,2010,Vestibular,2014,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+D98D13BA5ECA356FAEE405B3D49D316C,19-25 anos,2015,Transferencia Externa,2018,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+D9DEEF9391900EC69C80FF56917F3956,Acima de 35 anos,2013,Processo Seletivo - SiSU,2018,Formado,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Vagas destinadas aos candidatos de escola publica e baixa renda,Possuia
+DA36DBD22AF21ECA8661FF099DFB95B3,Acima de 35 anos,2013,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Vagas destinadas aos candidatos de escola publica e baixa renda,Possuia
+DA7AAD98682883A013549AA40DC1869D,Menos de 19 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+DAAC05DD6B717BCD0ECEDD8400830BDA,26-35 anos,2020,Processo Seletivo - SiSU,,Sem Evasao,Taboao da Serra-SP,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+DAB67E6A8473DA92EE0645BF8854F629,Acima de 35 anos,2019,Processo Seletivo - SiSU,2019,Desistencia,Feijo-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+DC16A8F559D602C2676352793B59BEBD,Acima de 35 anos,2019,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+DCB72788EE48CF08FACA5DD9EA45513A,Menos de 19 anos,2013,Processo Seletivo - SiSU,2016,Desistencia,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Vagas destinadas aos candidatos de escola publica e baixa renda,Não Possuia
+DDF22C927D3F99E95403AFEFC4501A8D,Menos de 19 anos,2017,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Possuia
+DF27596A3DD34A5F3F6783241111623E,Acima de 35 anos,2018,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+E0B2C99D6E66D1EA44A8588C7BC4A016,Acima de 35 anos,2013,Processo Seletivo - SiSU,2014,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Vagas destinadas aos candidatos de escola publica e baixa renda,Não Possuia
+E0ECF7947469DA3DC03F0977FFBBF417,Menos de 19 anos,2014,Processo Seletivo - SiSU,2022,Jubilamento,Fortaleza-CE,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+E14DC01AADD6EE3CEE4EF338FD966B35,Acima de 35 anos,2017,Processo Seletivo - SiSU,2023,Jubilamento,Rio Branco-AC,Preta,Sem Deficiencia,"Candidatos de Escola Publica com Baixa Renda (Pretos, Pardos e Indigenas)",Não Possuia
+E18B6F179B6A5A068A01655542F9B6DE,Menos de 19 anos,2008,Vestibular,2016,Formado,Cruzeiro do Sul-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+E1C8D8DFC6D7C5E1B14ED308D16DF4EA,Acima de 35 anos,2015,Processo Seletivo - SiSU,2015,Desistencia,Rio Branco-AC,Branca,Sem Deficiencia,"Candidatos de Escola Publica Independente de Renda (Pretos, Pardos e Indigenas)",Não Possuia
+E26BF6D0637420E41B0108DF8C21ACB5,19-25 anos,2021,Processo Seletivo - SiSU,2023,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+E2AA765D127DA9DF8A5BBF1A9BB58BE7,19-25 anos,2014,Processo Seletivo - SiSU,2018,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+E2CCB62D7F1F4030AC9A4CACDFBE7EC4,Acima de 35 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+E2DE99CEF855FFBCCDE38B87BF404EBE,Menos de 19 anos,2019,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+E31FF5F190911725E7767466DED02F2E,Menos de 19 anos,2018,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+E3826792969CAFC67D6C3668DE89AB20,Menos de 19 anos,2018,Processo Seletivo - SiSU,,Sem Evasao,Natal-RN,Branca,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda,Possuia
+E38F33506D2B9E9F151D1ACEA2A7B206,26-35 anos,2017,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+E395ECB7ABDEC5A7478E2EF5562456D9,Acima de 35 anos,2014,Processo Seletivo - SiSU,2016,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Vagas destinadas aos candidatos de escola publica e baixa renda,Não Possuia
+E3BF171DC16A50EDE1516FF8DB0F7B15,Menos de 19 anos,2021,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+E3BFF3CD294DF3B24F6FE9E700D86A91,Acima de 35 anos,2012,Enem,2020,Desistencia,Rio Branco-AC,Preta,Sem Deficiencia,Ampla Concorrencia,Possuia
+E431825E9EB720F669D56AD4AEB2F6E0,19-25 anos,2018,Processo Seletivo - SiSU,2018,Desistencia,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+E440113DDE9D989CAFF2C0F405AD1334,19-25 anos,2018,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Possuia
+E485B3FCC9FE53FB1CE882E40EAEF046,19-25 anos,2018,Processo Seletivo - SiSU,2019,Desistencia,Sena Madureira-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Não Possuia
+E4AD3061DC592B68A36C62B7681E2E0E,19-25 anos,2011,Vestibular,2014,Jubilamento,Nao informado,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+E4B79783CDDF15C2A0903352EB73AD7C,Acima de 35 anos,2016,Processo Seletivo - SiSU,2016,Desistencia,Rio Branco-AC,Branca,Sem Deficiencia,Geral,Não Possuia
+E5332009D3E9981D5FE151D9A976B6BD,19-25 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Cuiaba-MT,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda,Não Possuia
+E54C0519E6B011E4AA65D2B2FEEA11B8,Menos de 19 anos,2016,Mandado de Seguranca,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Possuia
+E5645E60BA25D95419CF809A8C0D8633,Acima de 35 anos,2021,Processo Seletivo - SiSU,2023,Falecimento,Tarauaca-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda,Não Possuia
+E57D5FA2D518200B6E8115F6161768E1,Menos de 19 anos,2009,Vestibular,2016,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+E61DEF9F4FEB639478B2A3F71642A916,19-25 anos,2020,Processo Seletivo - SiSU,2020,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+E6782087CAA9679395EA9100AE5D0EA3,Acima de 35 anos,2010,Vestibular,2014,Jubilamento,Senador Guiomard-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+E67EECF0CA844BD510CA62420EB53769,Menos de 19 anos,2016,Processo Seletivo - SiSU,2020,Formado,Rio Branco-AC,Parda,Sem Deficiencia,Geral,Possuia
+E7CCDAA05ADB5A5A45BA8988C9DD7BFD,Menos de 19 anos,2020,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Possuia
+E7EB5F94329A898510CDBCD06A419B4A,Acima de 35 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Ipixuna-AM,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+E7FF9F6C0D2B46F4B4560C29ED23A582,Acima de 35 anos,2013,Processo Seletivo - SiSU,2017,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Vagas destinadas aos candidatos de escola publica e baixa renda,Não Possuia
+E801BB4ED45EF2AB695C54FF3651E835,19-25 anos,2016,Processo Seletivo - SiSU,2016,Desistencia,Rio Branco-AC,Branca,Sem Deficiencia,Geral,Não Possuia
+E86FDB256522AA912CBFF6C9EE251FA4,Menos de 19 anos,2014,Processo Seletivo - SiSU,2018,Formado,Cruzeiro do Sul-AC,Parda,Sem Deficiencia,"Vagas destinadas aos pretos, pardos e indigenas de baixa renda",Possuia
+E8AC54CBE87FABC82B852E38D18DDFC4,19-25 anos,2009,Vestibular,2013,Desistencia,Rio de Janeiro-RJ,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+E90A598324002F2BEE63F39B95A52FF1,Menos de 19 anos,2012,Enem,2015,Desistencia,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Possuia
+E93A115CBA66C01BA25F95D0C64CF887,Menos de 19 anos,2019,Mandado de Seguranca,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Possuia
+E96B520D898C746F81549B11832D7424,Menos de 19 anos,2012,Enem,2022,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Possuia
+E9814D39A4C12B62C35BCF855B94BAB4,Menos de 19 anos,2015,Processo Seletivo - SiSU,2015,Cancelamento,Rio Branco-AC,Amarela,Sem Deficiencia,Geral,Não Possuia
+EA2AF5EA4AABDCA1D9DED27F252B8E41,Menos de 19 anos,2009,Vestibular,2014,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+EAB2156D0C600CEB7E814018273AEC86,26-35 anos,2009,Vestibular,2012,Jubilamento,Brasileia-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+EB035214C9FEB365B3751CA518CF752C,19-25 anos,2017,Processo Seletivo - SiSU,2018,Jubilamento,Rio Branco-AC,Preta,Sem Deficiencia,"Candidatos de Escola Publica Independente de Renda (Pretos, Pardos e Indigenas)",Não Possuia
+EB154F8B4A8349231DFD09537615C9A3,Menos de 19 anos,2011,Vestibular,2014,Desistencia,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+EB3AF25A629AAA931FAC036A868A8BE7,Menos de 19 anos,2020,Processo Seletivo - SiSU,,Sem Evasao,Oiapoque-AP,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Não Possuia
+EB8348943495B531AAD669701D56F569,Menos de 19 anos,2013,Processo Seletivo - SiSU,2019,Formado,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Vagas destinadas aos candidatos de escola publica e baixa renda,Possuia
+EBC27851ABE440D158556D1FF253BE3B,Acima de 35 anos,2017,Processo Seletivo - SiSU,2022,Jubilamento,Senador Guiomard-AC,Parda,Sem Deficiencia,"Candidatos de Escola Publica Independente de Renda (Pretos, Pardos e Indigenas)",Possuia
+EC341A16D2EBFD5BD5954296BD261FFC,19-25 anos,2012,Enem,2014,Jubilamento,Sena Madureira-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+EC3F02C3F47663F8D884A1C6A8A54FA4,19-25 anos,2018,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Não Possuia
+ECC92A19F0DE821519B715D10CBF7C62,19-25 anos,2012,Enem,2018,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+ED798EEC75807DF6E79B0BE391F720E4,26-35 anos,2008,Vestibular,2012,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+EDAD2286AEC8A0BBA9A237B11936D913,Acima de 35 anos,2019,Processo Seletivo - SiSU,2023,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+EDF7F2F34F6B96FAE76C68BC2268C128,Acima de 35 anos,2008,Vestibular,2016,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+EE77F23899E911ACE641794F89C19E1C,19-25 anos,2008,Vestibular,2012,Formado,Rio de Janeiro-RJ,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+EF239417F3FF79261005A11FE4B25651,Menos de 19 anos,2011,Convenio,2018,Jubilamento,Pucallpa-PER,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Possuia
+EF469DA55386B89993B2B644F5BA5140,Acima de 35 anos,2009,Vestibular,2012,Jubilamento,Fortaleza-CE,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+EF5FA3E7B0C6B2383740F768ED209602,Menos de 19 anos,2013,Processo Seletivo - SiSU,2023,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Vagas destinadas aos candidatos de escola publica e baixa renda,Não Possuia
+EFE030B927E36A9837DCE8A936081D39,Menos de 19 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+EFE71ABC27E9E9E53488787AE6A17C6D,Menos de 19 anos,2012,Enem,2014,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+F01287D4B412A2B16EC4A40AF48D7C69,Menos de 19 anos,2008,Vestibular,2012,Jubilamento,Tarauaca-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+F042FE2D8C2E42A80C9CB8FFC652D914,19-25 anos,2009,Vestibular,2014,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+F08F86E95C9D083C89F058285F9FF636,26-35 anos,2012,Enem,2023,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+F091F92B1EA77A949F406C1E09DCB81B,Menos de 19 anos,2016,Processo Seletivo - SiSU,2017,Transferido,Rio Branco-AC,Branca,Sem Deficiencia,Geral,Não Possuia
+F09B5525525B7A16D3C445FCCCFC626F,19-25 anos,2015,Processo Seletivo - SiSU,2015,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,"Candidatos de Escola Publica com Baixa Renda (Pretos, Pardos e Indigenas)",Não Possuia
+F0CF79F9B81720B964207AC2FDE19BE8,19-25 anos,2017,Processo Seletivo - SiSU,2018,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+F0D78B7CC5BDA890FE64CDBE4FE573D7,26-35 anos,2011,Vestibular,2014,Jubilamento,Nao informado,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+F0E6055AA7C6F509C6385327EB615820,Menos de 19 anos,2016,Processo Seletivo - SiSU,2020,Formado,Rio Branco-AC,Parda,Sem Deficiencia,Geral,Possuia
+F204AAB71691A8E18C3F6F00872DB63B,19-25 anos,2008,Vestibular,2012,Desistencia,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+F208C356CFFC03007C51918A76834F02,Acima de 35 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+F210495B03336D02FA5A9A51D5CB0436,Acima de 35 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Branca,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda,Não Possuia
+F282615824815D9E7482A33DD5CEEBFC,Acima de 35 anos,2018,Processo Seletivo - SiSU,2022,Jubilamento,Placido de Castro-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Não Possuia
+F2CB5353055E874920F894F3C3802B95,19-25 anos,2016,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Nao Declarada,Sem Deficiencia,"Candidatos de Escola Publica Independente de Renda (Pretos, Pardos e Indigenas)",Não Possuia
+F2DFB1D3D8632126DAB09D09F52C70B4,Menos de 19 anos,2017,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,"Candidatos de Escola Publica com Baixa Renda (Pretos, Pardos e Indigenas)",Possuia
+F35D2EBAD72DE23E570C4F749D4F62C2,Menos de 19 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Não Possuia
+F373C0EAA6D88216BE0F8F9085E8A5EC,Acima de 35 anos,2020,Processo Seletivo - SiSU,,Sem Evasao,Cruzeiro do Sul-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Possuia
+F4A2DDAC491EC7C236D4FB5DEB32389F,26-35 anos,2014,Processo Seletivo - SiSU,2018,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,"Vagas destinadas aos pretos, pardos e indigenas independente de renda",Não Possuia
+F52243969E08EE691C7CDDE04A38DA40,Acima de 35 anos,2018,Processo Seletivo - SiSU,2023,Jubilamento,Caico-RN,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+F58EF09AD7EBC3EDD43FD7EEA2444342,Acima de 35 anos,2012,Enem,2022,Jubilamento,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Possuia
+F590AD7F681D5CF0B57F2A38F4874883,19-25 anos,2012,Enem,2017,Formado,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Possuia
+F593B9EAD8801922F74F0A5329E31486,Menos de 19 anos,2015,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,"Candidatos de Escola Publica com Baixa Renda (Pretos, Pardos e Indigenas)",Possuia
+F5B479D66D5CB6B9AD844C42E6EE168B,Menos de 19 anos,2018,Processo Seletivo - SiSU,2022,Formado,Tarauaca-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda PPI,Possuia
+F5C91EE6005D9CBECDCE7DD7AC011AD0,Menos de 19 anos,2021,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+F5CBE902431F4DBEE4F989C9345047F8,19-25 anos,2014,Processo Seletivo - SiSU,2016,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+F68C0C30731D9296528EFB588279E83D,Menos de 19 anos,2013,Processo Seletivo - SiSU,2016,Formado,Feijo-AC,Nao Declarada,Sem Deficiencia,Vagas destinadas aos candidatos de escola publica e baixa renda,Possuia
+F6A0809B7F72D3310DC58FF04B5FADD8,Menos de 19 anos,2012,Enem,2015,Desistencia,Porto Velho-RO,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+F6BE712D932810D3B2DD67E494CB78DF,Acima de 35 anos,2012,Enem,2016,Formado,Epitaciolandia-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+F6E868A7D51F67A210DC306357C6E525,Acima de 35 anos,2013,Transferencia Externa,2018,Jubilamento,Varzea Grande-MT,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+F799B903AF8CCD01D8606E5E6AA0A8E2,Acima de 35 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+F7D90EAF20A3C676E36710D069F8D8B8,Menos de 19 anos,2015,Processo Seletivo - SiSU,2015,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,"Candidatos de Escola Publica Independente de Renda (Pretos, Pardos e Indigenas)",Possuia
+F861AA27E08EAD5195342B2412F525F4,Acima de 35 anos,2009,Vestibular,2014,Formado,Senador Guiomard-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+F87A05EF69BC4586DD04359E84364C41,19-25 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Mancio Lima-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Possuia
+F87B7D1F666A0A1D86568485A520BFFA,Acima de 35 anos,2011,Vestibular,2018,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+F88ED723F75415E1382439A735C638FB,Menos de 19 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica com Baixa Renda PPI,Não Possuia
+F8B9C9905A91FFD593F4DDC8293EB900,26-35 anos,2013,Processo Seletivo - SiSU,2018,Jubilamento,Feijo-AC,Branca,Sem Deficiencia,Vagas destinadas aos candidatos de escola publica e baixa renda,Não Possuia
+F92147DF394AD607D1DCED3231B6BAA6,Menos de 19 anos,2015,Processo Seletivo - SiSU,2017,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda,Não Possuia
+F95FFE289C87E37E448342836120B733,Menos de 19 anos,2019,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+F9CC05C31C9CDBD88EFCAD6D4619ACE4,Menos de 19 anos,2009,Vestibular,2018,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+F9E817650F505B7C38F29416DFD0BA69,Acima de 35 anos,2008,Vestibular,2014,Formado,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+FA757D4DF53D4143D09EC8064B630AC0,19-25 anos,2017,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Parda,Sem Deficiencia,"Candidatos de Escola Publica com Baixa Renda (Pretos, Pardos e Indigenas)",Possuia
+FB5C77496F3D3E72161C712F87005A6A,Menos de 19 anos,2009,Vestibular,2017,Formado,Cruzeiro do Sul-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+FBD9A04C9613D31B12E072430C25AE90,Menos de 19 anos,2015,Processo Seletivo - SiSU,2023,Jubilamento,Rio Branco-AC,Parda,Sem Deficiencia,"Candidatos de Escola Publica Independente de Renda (Pretos, Pardos e Indigenas)",Possuia
+FBF697A2B5EED2F138A85082A119B815,Acima de 35 anos,2012,Enem,2015,Desistencia,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Possuia
+FC11BD63879E70A8E44D9F9AD16EE567,Menos de 19 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Brasileia-AC,Parda,Sem Deficiencia,Candidatos de Escola Publica Independente de Renda,Não Possuia
+FCF21509B5DD8503AA090C93BBC8EB2C,19-25 anos,2016,Processo Seletivo - SiSU,2018,Jubilamento,Rio Branco-AC,Parda,Fisica,Candidatos Deficientes,Possuia
+FD00972962A2199DAD9533366040FE2B,19-25 anos,2015,Processo Seletivo - SiSU,2015,Desistencia,Rio Branco-AC,Branca,Sem Deficiencia,"Candidatos de Escola Publica Independente de Renda (Pretos, Pardos e Indigenas)",Não Possuia
+FD16DB024F69543B75906B5B0A85C093,19-25 anos,2014,Processo Seletivo - SiSU,2019,Formado,Rio Branco-AC,Branca,Sem Deficiencia,"Vagas destinadas aos pretos, pardos e indigenas independente de renda",Não Possuia
+FDD690EA1E6C2EF677CD9E7DE431C262,Menos de 19 anos,2023,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+FE70CD58C246614FA28EAFC8570F1D81,Menos de 19 anos,2021,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+FE7F7A0A7E51EF3F523048E2AC5E24C7,26-35 anos,2010,Vestibular,2012,Jubilamento,Campinas-SP,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+FEA68355A2B250EB95468FB15C087D8C,Menos de 19 anos,2010,Vestibular,2018,Formado,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Possuia
+FF19AAAEC6A0EA4ED365576F4902CEFA,Acima de 35 anos,2014,Processo Seletivo - SiSU,2016,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+FF41E552DBA792C96FCAFEB701076AED,Menos de 19 anos,2010,Vestibular,2013,Desistencia,Rio Branco-AC,Branca,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+FF43B070C8414D626834560097A519E1,Menos de 19 anos,2022,Processo Seletivo - SiSU,,Sem Evasao,Rio Branco-AC,Preta,Sem Deficiencia,Ampla Concorrencia,Não Possuia
+FF51FB7A9BCB22C595616B4FA368880A,Menos de 19 anos,2014,Processo Seletivo - SiSU,2016,Desistencia,Rio Branco-AC,Parda,Sem Deficiencia,Ampla Concorrencia,Possuia
+FFBAB8235DDC5C0290ECD6CECCC0A61A,Menos de 19 anos,2015,Processo Seletivo - SiSU,2022,Jubilamento,Rio Branco-AC,Branca,Sem Deficiencia,Geral,Não Possuia
+FFF574293A6252F4029A9413F364B2E6,Menos de 19 anos,2012,Enem,2014,Desistencia,Rio Branco-AC,Nao Declarada,Sem Deficiencia,Ampla Concorrencia,Possuia
